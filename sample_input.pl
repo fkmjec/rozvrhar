@@ -3,3 +3,5 @@
 % @begin_time - lesson beginning time from the start of the week, starting on midnight between sunday and monday
 % @end_time - lesson end time in the same format as @begin_time
 % @place - a unique identifier of the room
+subject(nswi177, 1, 2, s3).
+subject(nswi178, 2, 3, s3).
