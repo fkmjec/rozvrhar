@@ -45,3 +45,15 @@ is_schedule_feasible(Schedule) :- (
 ).
 
 %%%%%% SCHEDULE CREATION %%%%%%
+
+% create_schedule_internal(+Codes, +Acc, -Schedule)
+create_schedule_internal([], Acc, Acc)
+create_schedule_internal([Code | CodesSuffix], Acc, Schedule) :- (
+    create_schedule_internal(CodesSuffix, [subject(Code, _, _, _) | Acc], Schedule)
+).
+
+% create_schedule(+SubjectCodes, -Schedule)
+create_schedule(SubjectCodes, Schedule) :- (
+    create_schedule_internal(SubjectCodes, [], Schedule),
+    is_schedule_feasible(Schedule)
+).
