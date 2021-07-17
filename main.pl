@@ -1,3 +1,7 @@
+%%%%%%%% SCHEDULE DATA %%%%%%%%
+subject(nswi177, 1, 2, s3).
+subject(nswi178, 2, 3, s3).
+
 %%%%%%%% SCHEDULE VALIDATION %%%%%%%% 
 
 % order_subjects(-Delta, +S1, +S2)
@@ -47,7 +51,7 @@ is_schedule_feasible(Schedule) :- (
 %%%%%% SCHEDULE CREATION %%%%%%
 
 % create_schedule_internal(+Codes, +Acc, -Schedule)
-create_schedule_internal([], Acc, Acc)
+create_schedule_internal([], Acc, Acc).
 create_schedule_internal([Code | CodesSuffix], Acc, Schedule) :- (
     create_schedule_internal(CodesSuffix, [subject(Code, _, _, _) | Acc], Schedule)
 ).
