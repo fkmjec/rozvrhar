@@ -45,7 +45,7 @@ is_schedule_feasible_internal([event(end, Time) | NextEvents], _, 1) :- (
 is_schedule_feasible([]).
 is_schedule_feasible(Schedule) :- (
     create_events(Schedule, SortedEvents),
-    is_schedule_feasible_internal(SortedEvents, 0, 0)
+    is_schedule_feasible_internal(SortedEvents, -10, 0)
 ).
 
 %%%%%% SCHEDULE CREATION %%%%%%
@@ -53,7 +53,8 @@ is_schedule_feasible(Schedule) :- (
 % create_schedule_internal(+Codes, +Acc, -Schedule)
 create_schedule_internal([], Acc, Acc).
 create_schedule_internal([Code | CodesSuffix], Acc, Schedule) :- (
-    create_schedule_internal(CodesSuffix, [subject(Code, _, _, _) | Acc], Schedule)
+    subject(Code, X, Y, Z),
+    create_schedule_internal(CodesSuffix, [subject(Code, X, Y, Z) | Acc], Schedule)
 ).
 
 % create_schedule(+SubjectCodes, -Schedule)
