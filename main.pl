@@ -1,8 +1,20 @@
 %%%%%%%% SCHEDULE DATA %%%%%%%%
-subject(nswi177, date(mon, 14, 0), date(mon, 15, 30), s3).
-subject(nswi177, date(mon, 15, 40), date(mon, 17, 10), s4).
-subject(nswi178, date(mon, 14, 0), date(mon, 15, 30), s3).
+% subject_instance(Code, InstanceType, Start, End, Teacher, Building, Room)
+% format for inputting subjects and subject instances in prolog terms.
+% - @Code - the identifier of the subject
+% - @InstanceType - lecture or tutorial
+% - @Start and @End - times in the format date(Day, Hour, Minute)
+% - @Teacher - string with the name of the Teacher
+% - @Building - the teaching takes place, it is used to calculate transfers if you wish so.
+% - @Room - where in the building the teaching takes place
+%
+% subject(Code, Name, MandatoryInstances)
+% - @Code - as above
+% - @Name - name of the subject
+% - @MandatoryInstances - a list of mandatory instance types that you must have. Usually [lecture, tutorial]
 
+subject(nswi177, "kek", [tutorial]).
+subject_instance(nswi177, tutorial, date(thu, 17, 10), date(thu, 18, 50), "Petr Tůma", ms, s4).
 
 %%%%%%%% DATE AND TIME CONVERSION %%%%%%%%%
 daynum(mon, 0).
@@ -21,7 +33,6 @@ daytime2minutes(date(Day, Hours, Mins), Minutes) :- (
 ).
 
 %%%%%%%% SCHEDULE VALIDATION %%%%%%%% 
-
 % order_subjects(-Delta, +S1, +S2)
 compare_events(<, event(_, Time1), event(_, Time2)) :- (
     Time1 =< Time2
@@ -32,9 +43,9 @@ compare_events(>, event(_, Time1), event(_, Time2)) :- (
 
 % create_events_acc(+Schedule, +Acc, -Events)
 create_events_acc([], Acc, Acc).
-create_events_acc([subject(_, Start, End, _) | ScheduleSuffix], Acc, Events) :- (
-    daytime2minutes(Start, StartMinutes),
-    daytime2minutes(End, EndMinutes),
+create_events_acc([subject_instance(_, _, date(StartDay, StartHours, StartMins), date(EndDay, EndHours, EndMins), _, _, _) | ScheduleSuffix], Acc, Events) :- (
+    daytime2minutes(date(StartDay, StartHours, StartMins), StartMinutes),
+    daytime2minutes(date(EndDay, EndHours, EndMins), EndMinutes),
     create_events_acc(ScheduleSuffix, [event(start, StartMinutes), event(end, EndMinutes) | Acc], Events)
 ).
 
@@ -68,17 +79,76 @@ is_schedule_feasible(Schedule) :- (
     is_schedule_feasible_internal(SortedEvents, -10, 0)
 ).
 
+compare_subject_starts(>, subject_instance(_, _, Time1, _, _, _, _), subject_instance(_, _, Time2, _, _, _, _)) :- (
+    daytime2minutes(Time1, Minutes1),
+    daytime2minutes(Time2, Minutes2),
+    Minutes1 > Minutes2
+).
+compare_subject_starts(<, subject_instance(_, _, Time1, _, _, _, _), subject_instance(_, _, Time2, _, _, _, _)) :- (
+    daytime2minutes(Time1, Minutes1),
+    daytime2minutes(Time2, Minutes2),
+    Minutes1 =< Minutes2
+).
+
+sort_schedule_by_start(Subjects, SortedSubjects) :- (
+    predsort(compare_subject_starts, Subjects, SortedSubjects)
+).
+
 %%%%%% SCHEDULE CREATION %%%%%%
+
+% get_subject_instances(Code, InstanceTypes, Instances)
+% - gets a subject code and returns a set of subject instances (lectures, tutorials) that are
+% required to pass the course
+get_subject_instances(Code, InstanceTypes, Instances) :- (
+    get_subject_instances_internal(Code, InstanceTypes, [], Instances)
+).
+
+get_subject_instances_internal(_, [], Acc, Acc).
+get_subject_instances_internal(Code, [Type | Types], Acc, Instances) :- (
+    subject_instance(Code, Type, date(D1, H1, M1), date(D2, H2, M2), Lecturer, Building, Room),
+    get_subject_instances_internal(Code, Types, [subject_instance(Code, Type, date(D1, H1, M1), date(D2, H2, M2), Lecturer, Building, Room) | Acc], Instances)
+).
 
 % create_schedule_internal(+Codes, +Acc, -Schedule)
 create_schedule_internal([], Acc, Acc).
 create_schedule_internal([Code | CodesSuffix], Acc, Schedule) :- (
-    subject(Code, date(Day1, Hour1, Min1), date(Day2, Hour2, Min2), Place),
-    create_schedule_internal(CodesSuffix, [subject(Code, date(Day1, Hour1, Min1), date(Day2, Hour2, Min2), Place) | Acc], Schedule)
+    subject(Code, _, SubjectInstanceTypes),
+    get_subject_instances(Code, SubjectInstanceTypes, SubjectInstances),
+    append(SubjectInstances, Acc, NewAcc),
+    create_schedule_internal(CodesSuffix, NewAcc, Schedule)
 ).
 
 % create_schedule(+SubjectCodes, -Schedule)
-create_schedule(SubjectCodes, Schedule) :- (
+create_schedule(SubjectCodes, SortedSchedule) :- (
     create_schedule_internal(SubjectCodes, [], Schedule),
-    is_schedule_feasible(Schedule)
+    is_schedule_feasible(Schedule),
+    sort_schedule_by_start(Schedule, SortedSchedule)
+).
+
+print_single_schedule_internal([subject_instance(Code, Type, date(D1, H1, M1), _, Lecturer, Building, Room) | Subjects]) :- (
+    writeln([D1, Code, Type, H1, M1, Lecturer, Building, Room]),
+    print_single_schedule_internal(Subjects)
+).
+
+% print_single_schedule(+Schedule)
+% - a helper procedure which prints a single schedule
+% @Schedule - list of subject instances
+print_single_schedule(Schedule) :- (
+    writeln("====== ROZVRH ======"),
+    print_single_schedule_internal(Schedule)
+).
+
+% print_schedules(+Schedules)
+% - a helper procedure which prints all schedules in a list
+% @Schedules - list of lists of subject instances
+print_schedules(Schedules) :- (
+    maplist(print_single_schedule, Schedules)
+).
+
+% get_possible_schedules(+Codes)
+% the procedure prints all the possible schedule combinations you can get
+% @Codes - the codes of the subjects you want to take
+get_possible_schedules(Codes) :- (
+    findall(Schedule, create_schedule(Codes, Schedule), Schedules),
+    print_schedules(Schedules)
 ).
