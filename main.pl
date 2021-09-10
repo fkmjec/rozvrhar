@@ -13,9 +13,6 @@
 % - @Name - name of the subject
 % - @MandatoryInstances - a list of mandatory instance types that you must have. Usually [lecture, tutorial]
 
-subject(nswi177, "kek", [tutorial]).
-subject_instance(nswi177, tutorial, date(thu, 17, 10), date(thu, 18, 50), "Petr Tůma", ms, s4).
-
 %%%%%%%% DATE AND TIME CONVERSION %%%%%%%%%
 daynum(mon, 0).
 daynum(tue, 1).
@@ -125,6 +122,7 @@ create_schedule(SubjectCodes, SortedSchedule) :- (
     sort_schedule_by_start(Schedule, SortedSchedule)
 ).
 
+print_single_schedule_internal([]).
 print_single_schedule_internal([subject_instance(Code, Type, date(D1, H1, M1), _, Lecturer, Building, Room) | Subjects]) :- (
     writeln([D1, Code, Type, H1, M1, Lecturer, Building, Room]),
     print_single_schedule_internal(Subjects)
@@ -135,14 +133,17 @@ print_single_schedule_internal([subject_instance(Code, Type, date(D1, H1, M1), _
 % @Schedule - list of subject instances
 print_single_schedule(Schedule) :- (
     writeln("====== ROZVRH ======"),
-    print_single_schedule_internal(Schedule)
+    print_single_schedule_internal(Schedule),
+    writeln("")
 ).
 
 % print_schedules(+Schedules)
 % - a helper procedure which prints all schedules in a list
 % @Schedules - list of lists of subject instances
-print_schedules(Schedules) :- (
-    maplist(print_single_schedule, Schedules)
+print_schedules([]).
+print_schedules([Schedule | Schedules]) :- (
+    print_single_schedule(Schedule),
+    print_schedules(Schedules)
 ).
 
 % get_possible_schedules(+Codes)
