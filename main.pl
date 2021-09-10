@@ -124,7 +124,8 @@ create_schedule(SubjectCodes, SortedSchedule) :- (
 
 print_single_schedule_internal([]).
 print_single_schedule_internal([subject_instance(Code, Type, date(D1, H1, M1), _, Lecturer, Building, Room) | Subjects]) :- (
-    writeln([D1, Code, Type, H1, M1, Lecturer, Building, Room]),
+    subject(Code, Name, _),
+    format('~w: ~w ~|| ~w ~|| ~w ~|| ~d:~|~`0t~d~2+ ~|| ~w ~|| ~w ~|| ~w ~n', [D1, Code, Name, Type, H1, M1, Lecturer, Building, Room]),
     print_single_schedule_internal(Subjects)
 ).
 
@@ -132,7 +133,7 @@ print_single_schedule_internal([subject_instance(Code, Type, date(D1, H1, M1), _
 % - a helper procedure which prints a single schedule
 % @Schedule - list of subject instances
 print_single_schedule(Schedule) :- (
-    writeln("====== ROZVRH ======"),
+    writeln("======= ROZVRH ======="),
     print_single_schedule_internal(Schedule),
     writeln("")
 ).
