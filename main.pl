@@ -30,7 +30,10 @@ daytime2minutes(date(Day, Hours, Mins), Minutes) :- (
 ).
 
 %%%%%%%% SCHEDULE VALIDATION %%%%%%%% 
-% order_subjects(-Delta, +S1, +S2)
+% compare_events(Sign, Event1, Event2)
+% a comparator for the sort predicate
+% @Sign - either > or <
+% @Event1 and @Event2 - events to compare
 compare_events(<, event(_, Time1), event(_, Time2)) :- (
     Time1 =< Time2
 ).
@@ -48,6 +51,8 @@ create_events_acc([subject_instance(_, _, date(StartDay, StartHours, StartMins),
 
 % create_events(+Schedule, -SortedEvents)
 % creates the starts and ends of a schedule as events
+% @Schedule - a list of subject instances
+% @SortedEvents - the created events that are sorted by start time
 create_events(Schedule, SortedEvents) :- (
     create_events_acc(Schedule, [], Events),
     sort_events(Events, SortedEvents)
@@ -69,13 +74,18 @@ is_schedule_feasible_internal([event(end, Time) | NextEvents], _, 1) :- (
 ).
 
 % is_schedule_feasible(+Schedule)
-% - takes a list of subjects sorted by start time, returns true if the schedule doesnt overlapp
+% takes a list of subjects sorted by start time, returns true if the schedule doesnt overlapp
+% @Schedule - a list of subject_instances
 is_schedule_feasible([]).
 is_schedule_feasible(Schedule) :- (
     create_events(Schedule, SortedEvents),
     is_schedule_feasible_internal(SortedEvents, -10, 0)
 ).
 
+% compare_subject_starts(Sign, SubjectInstance1, SubjectInstance2)
+% a comparator method for sorting subject_instance
+% @Sign - > or <
+% @SubjectInstance1 and @SubjectInstance2 - the two instances to compare
 compare_subject_starts(>, subject_instance(_, _, Time1, _, _, _, _), subject_instance(_, _, Time2, _, _, _, _)) :- (
     daytime2minutes(Time1, Minutes1),
     daytime2minutes(Time2, Minutes2),
@@ -87,15 +97,21 @@ compare_subject_starts(<, subject_instance(_, _, Time1, _, _, _, _), subject_ins
     Minutes1 =< Minutes2
 ).
 
-sort_schedule_by_start(Subjects, SortedSubjects) :- (
-    predsort(compare_subject_starts, Subjects, SortedSubjects)
+% sort_schedule_by_start(SubjectInstances, SortedSubjectInstances)
+% wrapper method for sorting subject instances by starts
+% @SubjectInstances - a list of subject_instances
+% @SortedSubjectInstances - sorted output
+sort_schedule_by_start(SubjectInstances, SortedSubjectInstances) :- (
+    predsort(compare_subject_starts, SubjectInstances, SortedSubjectInstances)
 ).
 
 %%%%%% SCHEDULE CREATION %%%%%%
-
-% get_subject_instances(Code, InstanceTypes, Instances)
-% - gets a subject code and returns a set of subject instances (lectures, tutorials) that are
+% get_subject_instances(+Code, +InstanceTypes, -Instances)
+% gets a subject code and returns a set of subject instances (lectures, tutorials) that are
 % required to pass the course
+% @Code - the unique code identifying the subject, e.g. nswi177
+% @InstanceTypes - the list of instance types that you are required to attend to pass the course (typically lecture and tutorial)
+% @Instances - a list of subject_instances you need.
 get_subject_instances(Code, InstanceTypes, Instances) :- (
     get_subject_instances_internal(Code, InstanceTypes, [], Instances)
 ).
@@ -116,6 +132,10 @@ create_schedule_internal([Code | CodesSuffix], Acc, Schedule) :- (
 ).
 
 % create_schedule(+SubjectCodes, -Schedule)
+% this predicate takes in the subject codes you need to pass
+% and it returns a possible schedule.
+% @SubjectCodes - a list of unique subject codes, for example [nswi177, ndmi065]
+% @Schedule - the resulting schedule
 create_schedule(SubjectCodes, SortedSchedule) :- (
     create_schedule_internal(SubjectCodes, [], Schedule),
     is_schedule_feasible(Schedule),
@@ -148,7 +168,7 @@ print_schedules([Schedule | Schedules]) :- (
 ).
 
 % get_possible_schedules(+Codes)
-% the procedure prints all the possible schedule combinations you can get
+% the procedure prints all the possible schedule combinations you can get with the required subjects
 % @Codes - the codes of the subjects you want to take
 get_possible_schedules(Codes) :- (
     findall(Schedule, create_schedule(Codes, Schedule), Schedules),
