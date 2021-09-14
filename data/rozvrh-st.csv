@@ -1,0 +1,68 @@
+id listku(veskera vyuka pro celou paralelku - vice hodin za tyden);id podlistku(konkretni vyuka v nejaky den a hodinu);kod predmetu;nazev;den(1=po);cas(min od 0:00);mistnost;delka(min);prvni tyden vyuky;prvni den vyuky pro jednorazovou;pocet tydnu vyuky;ctrnactideni vyuka;ucitele
+21aNAIL002p1;21aNAIL002p1b;NAIL002;Neuronové sítì;3;840;S5;90;1;;15;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL004x01;21aNAIL004x01;NAIL004;Semináø z umìlé inteligence 1;3;640;S8;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL025x02;21aNAIL025x02;NAIL025;Evoluèní algoritmy 1;3;1040;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL028p1;21aNAIL028p1;NAIL028;Úvod do robotiky;3;640;S5;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL028x01;21aNAIL028x01;NAIL028;Úvod do robotiky;3;840;SW2;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL062x01;21aNAIL062x01;NAIL062;Výroková a predikátová logika;3;840;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x02;21aNAIL062x02;NAIL062;Výroková a predikátová logika;3;640;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x06;21aNAIL062x06;NAIL062;Výroková a predikátová logika;3;940;S1;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNCGD008x01;21aNCGD008x01;NCGD008;Praktikum z herního vývoje s øízeným kódem;3;540;SW1;90;1;;15;;Gemrot Jakub, Mgr., Ph.D., Vlachovský Karel, Bc.
+21aNDBI007x01;21aNDBI007x01;NDBI007;Databázové pøístupové metody;3;740;S1;90;1;;15;liche;Koupil Pavel, Ing.
+21aNDBI007x02;21aNDBI007x02;NDBI007;Databázové pøístupové metody;3;740;S1;90;2;;15;sude;Koupil Pavel, Ing.
+21aNDBI025x05;21aNDBI025x05;NDBI025;Databázové systémy;3;840;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x08;21aNDBI025x08;NDBI025;Databázové systémy;3;640;S7;90;2;;15;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI009p1;21aNDMI009p1;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;940;S9;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D., Kynèl Jan, Mgr., Ph.D.
+21aNDMI009x01;21aNDMI009x01;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;1040;S9;90;1;;16;;Kynèl Jan, Mgr., Ph.D., Opler Michal, Mgr.
+21aNDMI011p2;21aNDMI011p2;NDMI011;Kombinatorika a grafy 1;3;740;S9;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x01;21aNDMI011x01;NDMI011;Kombinatorika a grafy 1;3;1040;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNDMI011x03;21aNDMI011x03;NDMI011;Kombinatorika a grafy 1;3;740;S11;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI011x05;21aNDMI011x05;NDMI011;Kombinatorika a grafy 1;3;940;S6;90;1;;16;;Poljak Marian, Bc.
+21aNDMI011x07;21aNDMI011x07;NDMI011;Kombinatorika a grafy 1;3;840;S10;90;1;;15;;Penev Irena, Dr.
+21aNDMI084p1;21aNDMI084p1;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;3;840;S9;90;1;;16;;Kolman Petr, doc. Mgr., Ph.D.
+21aNMAI055x03;21aNMAI055x03;NMAI055;Matematická analýza 2;3;640;S10;90;1;;15;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI060p1;21aNMAI060p1;NMAI060;Pravdìpodobnostní metody;3;540;S9;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI062p2;21aNMAI062p2;NMAI062;Algebra 1;3;640;S4;90;1;;16;;Kompatscher Michael, Ph.D.
+21aNMAI073p1;21aNMAI073p1;NMAI073;Pravdìpodobnost a statistika 2;3;740;S4;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNMAI165x01;21aNMAI165x01;NMAI165;Praktikum z pravdìpodobnostních metod;3;640;S9;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNOPT042x01;21aNOPT042x01;NOPT042;Programování s omezujícími podmínkami;3;740;SU1;90;1;;15;;Bulín Jakub, RNDr., Ph.D.
+21aNPFL063p1;21aNPFL063p1;NPFL063;Úvod do obecné lingvistiky;3;940;S5;90;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL063x01;21aNPFL063x01;NPFL063;Úvod do obecné lingvistiky;3;1040;S8;45;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL070p1;21aNPFL070p1;NPFL070;Zdroje jazykových dat;3;640;SW1;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL070x01;21aNPFL070x01;NPFL070;Zdroje jazykových dat;3;690;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL100p1;21aNPFL100p1;NPFL100;Variabilita jazykù v èase a prostoru;3;840;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL100x01;21aNPFL100x01;NPFL100;Variabilita jazykù v èase a prostoru;3;890;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL121x01;21aNPFL121x01;NPFL121;Vybrané kapitoly z èeské gramatiky;3;540;S11;90;1;;16;;Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL132p1;21aNPFL132p1;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1040;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL132x01;21aNPFL132x01;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1140;SU1;45;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPGR003p1;21aNPGR003p1;NPGR003;Základy poèítaèové grafiky;3;640;S3;90;1;;15;;Pelikán Josef, RNDr.
+21aNPGR003x02;21aNPGR003x02;NPGR003;Základy poèítaèové grafiky;3;840;SU2;90;1;;16;;Pelikán Josef, RNDr.
+21aNPGR005x01;21aNPGR005x01;NPGR005;Semináø z poèítaèové grafiky a vidìní;3;840;S11;90;1;;16;;Wilkie Alexander, doc., Dr., Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR025p1;21aNPGR025p1;NPGR025;Introduction to Colour Science;3;940;S3;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR037x01;21aNPGR037x01;NPGR037;Praktikum z Matlabu;3;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p3;21aNPRG013p3;NPRG013;Programování v jazyce Java;3;540;S3;90;1;;15;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x04;21aNPRG013x04;NPRG013;Programování v jazyce Java;3;940;SU2;90;1;;16;;Dort Vlastimil, Mgr.
+21aNPRG035x08;21aNPRG035x08;NPRG035;Programování v jazyce C#;3;640;SW2;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x01;21aNPRG041x01;NPRG041;Programování v C++;3;740;SU2;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x04;21aNPRG041x04;NPRG041;Programování v C++;3;740;SW2;90;1;;16;;Svoboda Martin, RNDr., Ph.D.
+21aNPRG041x09;21aNPRG041x09;NPRG041;Programování v C++;3;940;SW2;90;1;;15;;Svoboda Martin, RNDr., Ph.D.
+21aNSWI098p1;21aNSWI098p1;NSWI098;Principy pøekladaèù;3;740;S3;90;1;;16;;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI098x01;21aNSWI098x01;NSWI098;Principy pøekladaèù;3;840;S1;90;2;;15;sude;Bednárek David, RNDr., Ph.D.
+21aNSWI098x02;21aNSWI098x02;NSWI098;Principy pøekladaèù;3;840;S1;90;1;;15;liche;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI101p1;21aNSWI101p1;NSWI101;Modely a verifikace chování systémù;3;640;S1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI101x01;21aNSWI101x01;NSWI101;Modely a verifikace chování systémù;3;740;S8;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI106p1;21aNSWI106p1;NSWI106;Administrace Linuxu;3;840;S3;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI133x01;21aNSWI133x01;NSWI133;Firemní semináøe;3;1040;S5;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI142p2;21aNSWI142p2;NSWI142;Programování webových aplikací;3;540;S4;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x02;21aNSWI142x02;NSWI142;Programování webových aplikací;3;640;SU2;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI144p1;21aNSWI144p1;NSWI144;Data na Webu;3;540;S5;90;1;;16;;Klímek Jakub, RNDr., Ph.D.
+21aNSWI144x01;21aNSWI144x01;NSWI144;Data na Webu;3;940;SW1;90;2;;13;sude;Klímek Jakub, RNDr., Ph.D.
+21aNSWI150p1;21aNSWI150p1;NSWI150;Virtualizace a cloud computing;3;940;S4;90;1;;16;;Yaghob Jakub, RNDr., Ph.D., Bednárek David, RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNSWI154x01;21aNSWI154x01;NSWI154;Nástroje pro vývoj software;3;640;SU1;90;1;;15;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI166p1;21aNSWI166p1;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;840;S4;90;2;;16;;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNSWI166x01;21aNSWI166x01;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;940;S10;90;1;;16;liche;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNTIN061x02;21aNTIN061x02;NTIN061;Algoritmy a datové struktury 2;3;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNTIN061x09;21aNTIN061x09;NTIN061;Algoritmy a datové struktury 2;3;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN066x01;21aNTIN066x01;NTIN066;Datové struktury 1;3;940;S7;90;1;;16;;Mièka Ondøej, Mgr.
+21aNTIN066x05;21aNTIN066x05;NTIN066;Datové struktury 1;3;640;S11;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+;R110754519;;Projekty;3;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.

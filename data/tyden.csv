@@ -1,0 +1,1294 @@
+21aNAIL002x02;21aNAIL002x02;NAIL002;Neuronové sítì;4;840;SU2;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL060p1;21aNAIL060p1;NAIL060;Implementace neuronových sítí 1;4;940;S4;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL060x01;21aNAIL060x01;NAIL060;Implementace neuronových sítí 1;4;1040;SW1;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL062x04;21aNAIL062x04;NAIL062;Výroková a predikátová logika;4;540;S6;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL099x01;21aNAIL099x01;NAIL099;Semináø strojového uèení a modelování 1;4;840;S8;90;2;;16;sude;Holeòa Martin, prof. RNDr. Ing., CSc.
+21aNDBI007p1;21aNDBI007p1;NDBI007;Databázové pøístupové metody;4;640;S3;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI007p2;21aNDBI007p2;NDBI007;Databázové pøístupové metody;4;540;S1;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI025x01;21aNDBI025x01;NDBI025;Databázové systémy;4;940;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x07;21aNDBI025x07;NDBI025;Databázové systémy;4;540;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI048p1;21aNDBI048p1;NDBI048;Data Science;4;740;S5;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI048x01;21aNDBI048x01;NDBI048;Data Science;4;840;SW1;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDMI002p2;21aNDMI002p2;NDMI002;Diskrétní matematika;4;840;S3;90;1;;15;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI011x04;21aNDMI011x04;NDMI011;Kombinatorika a grafy 1;4;540;S10;90;1;;16;;Lieskovský Matej, Mgr.
+21aNDMI011x06;21aNDMI011x06;NDMI011;Kombinatorika a grafy 1;4;940;S7;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x08;21aNDMI011x08;NDMI011;Kombinatorika a grafy 1;4;640;S6;90;1;;16;;Èermák Filip, Bc.
+21aNDMI050x01;21aNDMI050x01;NDMI050;Úvod do øešení problémù kombinatorických, mat. i jiných (IPS) I;4;1159;S3;90;1;;15;;Mareš Martin, Mgr., Ph.D., Konèický Václav, Bc.
+21aNDMI098p1;21aNDMI098p1;NDMI098;Algoritmická teorie her;4;840;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNDMI098x01;21aNDMI098x01;NDMI098;Algoritmická teorie her;4;940;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNMAI055p1;21aNMAI055p1;NMAI055;Matematická analýza 2;4;540;S5;90;1;;16;;Pultr Aleš, prof. RNDr., DrSc.
+21aNMAI055x01;21aNMAI055x01;NMAI055;Matematická analýza 2;4;640;S10;90;1;;16;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI055x02;21aNMAI055x02;NMAI055;Matematická analýza 2;4;640;S7;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI055x04;21aNMAI055x04;NMAI055;Matematická analýza 2;4;640;S11;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057x21;21aNMAI057x21;NMAI057;Lineární algebra 1;4;840;S7;90;1;;15;;Èerný Martin, Bc., Zeman Peter, Mgr.
+21aNMAI060p2;21aNMAI060p2;NMAI060;Pravdìpodobnostní metody;4;540;S8;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI165x02;21aNMAI165x02;NMAI165;Praktikum z pravdìpodobnostních metod;4;640;S8;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMIN263p1;21aNMIN263p1;NMIN263;Principy poèítaèù a operaèní systémy;4;1040;S1;90;1;;16;;Jákl Vojtìch, RNDr.
+21aNPFL006p1;21aNPFL006p1;NPFL006;Úvod do formální lingvistiky;4;640;S1;90;1;;16;;Ševèíková Magda, Mgr., Ph.D.
+21aNPFL015x01;21aNPFL015x01;NPFL015;Metody automatizovaného pøekladu;4;840;S10;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL038p1;21aNPFL038p1;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;940;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL038x01;21aNPFL038x01;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;1040;SU2;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL092p1;21aNPFL092p1;NPFL092;Technologie pro NLP;4;740;S421;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL092x01;21aNPFL092x01;NPFL092;Technologie pro NLP;4;640;S421;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL094p1;21aNPFL094p1;NPFL094;Morfologická a syntaktická analýza;4;840;SU1;90;1;;16;;Zeman Daniel, RNDr., Ph.D.
+21aNPFL097p1;21aNPFL097p1;NPFL097;Neøízené strojové uèení v NLP;4;540;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL097x01;21aNPFL097x01;NPFL097;Neøízené strojové uèení v NLP;4;590;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL125x01;21aNPFL125x01;NPFL125;Základy jazykových technologií;4;640;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPGR035x02;21aNPGR035x02;NPGR035;Strojové uèení v poèítaèovém vidìní;4;540;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR039p1;21aNPGR039p1;NPGR039;Úvod do animované tvorby;4;540;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPGR039x01;21aNPGR039x01;NPGR039;Úvod do animované tvorby;4;590;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPRG013x01;21aNPRG013x01;NPRG013;Programování v jazyce Java;4;640;SU2;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG030p2;21aNPRG030p2;NPRG030;Programování 1;4;740;S3;90;1;;15;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035x01;21aNPRG035x01;NPRG035;Programování v jazyce C#;4;840;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x04;21aNPRG035x04;NPRG035;Programování v jazyce C#;4;1040;SW2;90;1;;16;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041p2;21aNPRG041p2;NPRG041;Programování v C++;4;840;S4;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG041x05;21aNPRG041x05;NPRG041;Programování v C++;4;1040;S7;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x06;21aNPRG041x06;NPRG041;Programování v C++;4;740;SW2;90;1;;16;;Faltín Tomáš, Mgr.
+21aNPRG041x08;21aNPRG041x08;NPRG041;Programování v C++;4;540;SW2;90;1;;15;;Šmelko Adam, Mgr.
+21aNPRG059x01;21aNPRG059x01;NPRG059;Praktikum z pokroèilého objektového programování;4;1090;S7;45;1;;16;;Ježek Pavel, Mgr., Ph.D., Hnìtynka Petr, doc. RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNPRG068p1;21aNPRG068p1;NPRG068;Programování v Haskellu;4;740;S4;90;1;;16;;Kratochvíl Miroslav, RNDr., Ph.D.
+21aNSWI015p1;21aNSWI015p1;NSWI015;Unix/Linux Programming in C;4;540;S4;90;1;;16;;Pechanec Jan, Mgr., Kotal Vladimír, Mgr.
+21aNSWI015x01;21aNSWI015x01;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;1;;16;liche;Kotal Vladimír, Mgr.
+21aNSWI015x02;21aNSWI015x02;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;2;;16;sude;Kotal Vladimír, Mgr.
+21aNSWI106x03;21aNSWI106x03;NSWI106;Administrace Linuxu;4;940;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI130x01;21aNSWI130x01;NSWI130;Architektury softwarových systémù;4;840;S6;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI130x02;21aNSWI130x02;NSWI130;Architektury softwarových systémù;4;740;S8;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142x01;21aNSWI142x01;NSWI142;Programování webových aplikací;4;940;SW2;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNSWI142x04;21aNSWI142x04;NSWI142;Programování webových aplikací;4;640;SW2;90;1;;16;;Peška Ladislav, Mgr., Ph.D.
+21aNSWI142x05;21aNSWI142x05;NSWI142;Programování webových aplikací;4;1040;SU1;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x06;21aNSWI142x06;NSWI142;Programování webových aplikací;4;540;SU2;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI162x01;21aNSWI162x01;NSWI162;Sémantika programù;4;740;SU2;90;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI163x01;21aNSWI163x01;NSWI163;Úvod do middleware;4;740;SU2;90;2;;16;sude;Tùma Petr, prof. Ing., Dr.
+21aNTIN022x01;21aNTIN022x01;NTIN022;Pravdìpodobnostní techniky;4;740;S1;90;1;;16;;Koneèný Matìj, RNDr., Bulavka Denys, Mgr.
+21aNTIN046x01;21aNTIN046x01;NTIN046;Rozpoznávání a syntaktická analýza;4;840;S1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc., Plátek Martin, CSc.
+21aNTIN061x05;21aNTIN061x05;NTIN061;Algoritmy a datové struktury 2;4;1040;S6;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x08;21aNTIN061x08;NTIN061;Algoritmy a datové struktury 2;4;940;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066p1;21aNTIN066p1;NTIN066;Datové struktury 1;4;840;S5;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+21aNTIN090p1;21aNTIN090p1;NTIN090;Základy složitosti a vyèíslitelnosti;4;540;S3;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x01;21aNTIN090x01;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x05;21aNTIN090x05;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;2;;16;sude;Bulín Jakub, RNDr., Ph.D.
+;R110741999;;Polední pøednášky KAM;4;740;S6;90;1;;8;; 
+;R110742024;;Polední pøednášky KAM;4;740;S6;90;10;;6;; 
+;R110754520;;Projekty;4;1140;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+;R110761385;;;4;540;S510;180;;30.9.2021;1;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNAIL025x01;21aNAIL025x01;NAIL025;Evoluèní algoritmy 1;5;740;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x03;21aNAIL062x03;NAIL062;Výroková a predikátová logika;5;540;S7;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x08;21aNAIL062x08;NAIL062;Výroková a predikátová logika;5;540;S10;90;1;;16;;Hric Jan, RNDr.
+21aNAIL087p1;21aNAIL087p1;NAIL087;Informatika a kognitivní vìdy 1;5;540;S4;90;1;;16;;Lukavský Jiøí, Mgr., Ph.D., Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL087x01;21aNAIL087x01;NAIL087;Informatika a kognitivní vìdy 1;5;640;S4;90;1;;16;;Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL116p1;21aNAIL116p1;NAIL116;Sociální sítì a jejich analýza;5;640;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL116x01;21aNAIL116x01;NAIL116;Sociální sítì a jejich analýza;5;540;SW1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNCGD002p1;21aNCGD002p1;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD002x01;21aNCGD002x01;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004p1;21aNCGD004p1;NCGD004;Úvod do herního designu;5;640;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004x01;21aNCGD004x01;NCGD004;Úvod do herního designu;5;690;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNDBI025x02;21aNDBI025x02;NDBI025;Databázové systémy;5;540;S11;90;2;;15;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x04;21aNDBI025x04;NDBI025;Databázové systémy;5;740;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI002x14;21aNDMI002x14;NDMI002;Diskrétní matematika;5;640;S6;90;1;;16;;Hons Tomáš, Bc.
+21aNDMI011x02;21aNDMI011x02;NDMI011;Kombinatorika a grafy 1;5;640;S10;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI084p2;21aNDMI084p2;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;5;640;S3;90;1;;16;;Sgall Jiøí, prof. RNDr., DrSc.
+21aNJAZ201x01;21aNJAZ201x01;NJAZ201;Academic Writing for Mathematicians I;5;690;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNJAZ203x01;21aNJAZ203x01;NJAZ203;Academic Writing for Computer Scientists I;5;790;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNMAI062p1;21aNMAI062p1;NMAI062;Algebra 1;5;540;S5;90;1;;16;;Patáková Zuzana, RNDr., Ph.D.
+21aNMAI069x09;21aNMAI069x09;NMAI069;Matematické dovednosti;5;540;S6;90;1;;16;;Kynèl Jan, Mgr., Ph.D.
+21aNPGR003x05;21aNPGR003x05;NPGR003;Základy poèítaèové grafiky;5;540;SU2;90;1;;15;;Tázlar Vojtìch, Mgr.
+21aNPRG013x05;21aNPRG013x05;NPRG013;Programování v jazyce Java;5;740;SU1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG035x02;21aNPRG035x02;NPRG035;Programování v jazyce C#;5;640;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x03;21aNPRG035x03;NPRG035;Programování v jazyce C#;5;540;SW2;90;1;;16;;Pacovský Jan, Mgr.
+21aNPRG041x03;21aNPRG041x03;NPRG041;Programování v C++;5;740;SW2;90;1;;16;;Husák Robert, Mgr. Ing.
+21aNPRG041x07;21aNPRG041x07;NPRG041;Programování v C++;5;640;SU2;90;1;;16;;Drozdík Tomáš, Bc.
+21aNSWI004p1;21aNSWI004p1;NSWI004;Operaèní systémy;5;540;S3;90;1;;16;;Tùma Petr, prof. Ing., Dr.
+21aNSWI004x01;21aNSWI004x01;NSWI004;Operaèní systémy;5;740;S9;90;1;;16;liche;Bulej Lubomír, doc. Ing., Ph.D.
+21aNSWI004x02;21aNSWI004x02;NSWI004;Operaèní systémy;5;740;S9;90;2;;16;sude;Horký Vojtìch, Mgr., Ph.D.
+21aNTIN061x01;21aNTIN061x01;NTIN061;Algoritmy a datové struktury 2;5;640;S7;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN061x03;21aNTIN061x03;NTIN061;Algoritmy a datové struktury 2;5;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x06;21aNTIN061x06;NTIN061;Algoritmy a datové struktury 2;5;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNUIN021p1;21aNUIN021p1;NUIN021;Algoritmy a automaty pro uèitele;5;740;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+21aNUIN021x01;21aNUIN021x01;NUIN021;Algoritmy a automaty pro uèitele;5;840;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+;R110742005;;Experiment vyukove simulace;5;690;SW1;470;1;;13;; 
+21aNAIL002p1;21aNAIL002p1;NAIL002;Neuronové sítì;1;840;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL002x01;21aNAIL002x01;NAIL002;Neuronové sítì;1;740;SU2;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL062x05;21aNAIL062x05;NAIL062;Výroková a predikátová logika;1;740;S11;90;1;;16;;Hric Jan, RNDr.
+21aNAIL062x07;21aNAIL062x07;NAIL062;Výroková a predikátová logika;1;740;S7;90;1;;16;;Pantùèková Kristýna, Mgr.
+21aNAIL069p1;21aNAIL069p1;NAIL069;Umìlá inteligence 1;1;640;S3;90;1;;15;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069p2;21aNAIL069p2;NAIL069;Umìlá inteligence 1;1;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069x01;21aNAIL069x01;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x02;21aNAIL069x02;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL122p1;21aNAIL122p1;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D.
+21aNAIL122x01;21aNAIL122x01;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D.
+21aNDBI025x06;21aNDBI025x06;NDBI025;Databázové systémy;1;1040;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI044p1;21aNDBI044p1;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;940;S4;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDBI044x01;21aNDBI044x01;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;1040;S8;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDMI002x13;21aNDMI002x13;NDMI002;Diskrétní matematika;1;740;S6;90;1;;16;;Skotnica Michael, Mgr.
+21aNDMI084x02;21aNDMI084x02;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;1;940;S7;90;1;;16;liche;Lieskovský Matej, Mgr.
+21aNMAI057x16;21aNMAI057x16;NMAI057;Lineární algebra 1;1;840;S6;90;1;;16;;Hubáèek Pavel, Mgr., Ph.D.
+21aNMAI062x01;21aNMAI062x01;NMAI062;Algebra 1;1;640;S6;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI062x02;21aNMAI062x02;NMAI062;Algebra 1;1;740;S8;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI073x01;21aNMAI073x01;NMAI073;Pravdìpodobnost a statistika 2;1;1040;S6;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNPFL004x01;21aNPFL004x01;NPFL004;Semináø z formální lingvistiky;1;840;S1;100;1;;16;;Hajièová Eva, prof. PhDr., DrSc.
+21aNPFL099p1;21aNPFL099p1;NPFL099;Statistické dialogové systémy;1;940;S10;90;1;;16;;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL099x01;21aNPFL099x01;NPFL099;Statistické dialogové systémy;1;1040;S10;45;1;;15;liche;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL101x01;21aNPFL101x01;NPFL101;Soutìžní strojový pøeklad;1;540;SU1;90;1;;16;;Bojar Ondøej, doc. RNDr., Ph.D.
+21aNPFL122p1;21aNPFL122p1;NPFL122;Hluboké zpìtnovazební uèení;1;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL122x01;21aNPFL122x01;NPFL122;Hluboké zpìtnovazební uèení;1;640;S1;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129p2;21aNPFL129p2;NPFL129;Úvod do strojového uèení v Pythonu;1;740;S5;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003p2;21aNPGR003p2;NPGR003;Základy poèítaèové grafiky;1;540;S4;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR003x01;21aNPGR003x01;NPGR003;Základy poèítaèové grafiky;1;940;SU2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPGR003x03;21aNPGR003x03;NPGR003;Základy poèítaèové grafiky;1;640;SW2;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR035p1;21aNPGR035p1;NPGR035;Strojové uèení v poèítaèovém vidìní;1;640;S9;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR035x01;21aNPGR035x01;NPGR035;Strojové uèení v poèítaèovém vidìní;1;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p2;21aNPRG013p2;NPRG013;Programování v jazyce Java;1;840;S4;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x02;21aNPRG013x02;NPRG013;Programování v jazyce Java;1;940;SW1;90;1;;16;;Khalyeyev Danylo, Mgr.
+21aNPRG014x01;21aNPRG014x01;NPRG014;Koncepty moderních programovacích jazykù;1;840;S3;180;1;;16;;Bureš Tomáš, prof. RNDr., Ph.D., Pech Václav, Mgr.
+21aNPRG030x12;21aNPRG030x12;NPRG030;Programování 1;1;1040;SW2;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035p2;21aNPRG035p2;NPRG035;Programování v jazyce C#;1;740;S9;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x02;21aNPRG041x02;NPRG041;Programování v C++;1;740;SW2;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG056x01;21aNPRG056x01;NPRG056;Programování mobilních zaøízení;1;640;S4;180;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D., Prokop Lukáš
+21aNPRG062x11;21aNPRG062x11;NPRG062;Algoritmizace;1;990;SW2;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG067x01;21aNPRG067x01;NPRG067;Python pro praxi;1;640;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D., Bureš Tomáš, prof. RNDr., Ph.D., Peška Ladislav, Mgr., Ph.D.
+21aNPRG073x01;21aNPRG073x01;NPRG073;Programování v jazyce Rust;1;540;S1;90;1;;15;liche;Vaner Michal, Mgr., Šimerda Pavel
+21aNSWI072p1;21aNSWI072p1;NSWI072;Algoritmy komprese dat;1;640;S5;90;1;;16;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI130p1;21aNSWI130p1;NSWI130;Architektury softwarových systémù;1;1040;S3;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142p1;21aNSWI142p1;NSWI142;Programování webových aplikací;1;740;S3;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI154x03;21aNSWI154x03;NSWI154;Nástroje pro vývoj software;1;840;SU2;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061x04;21aNTIN061x04;NTIN061;Algoritmy a datové struktury 2;1;740;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066x03;21aNTIN066x03;NTIN066;Datové struktury 1;1;940;S6;90;1;;16;;Fink Jiøí, RNDr., Ph.D.
+21aNTIN066x04;21aNTIN066x04;NTIN066;Datové struktury 1;1;640;S7;90;1;;16;;Vu Tung Anh, Mgr.
+21aNTIN087p1;21aNTIN087p1;NTIN087;Textové algoritmy;1;840;S9;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNTIN090x03;21aNTIN090x03;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;2;;16;sude;Majerech Vladan, Mgr., Dr.
+21aNTIN090x04;21aNTIN090x04;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;1;;16;liche;Majerech Vladan, Mgr., Dr.
+21aNUIN018p1;21aNUIN018p1;NUIN018;Vývoj poèítaèových her - pro uèitele;1;640;SW1;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN018x01;21aNUIN018x01;NUIN018;Vývoj poèítaèových her - pro uèitele;1;740;SW1;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN019p1;21aNUIN019p1;NUIN019;Základy tvorby webu;1;790;SW1;45;1;;16;;Pešková Klára, Mgr., Ph.D.
+21aNUIN019x01;21aNUIN019x01;NUIN019;Základy tvorby webu;1;840;SW1;90;1;;16;;Pešková Klára, Mgr., Ph.D.
+;R110742003;;Schuze UFAL;1;790;S1;50;1;;13;; 
+;R110742007;;Gaudeamus Pikurus;1;1080;S1;180;1;;14;; 
+21aNAIL002p1;21aNAIL002p1b;NAIL002;Neuronové sítì;3;840;S5;90;1;;15;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL004x01;21aNAIL004x01;NAIL004;Semináø z umìlé inteligence 1;3;640;S8;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL025x02;21aNAIL025x02;NAIL025;Evoluèní algoritmy 1;3;1040;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL028p1;21aNAIL028p1;NAIL028;Úvod do robotiky;3;640;S5;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL028x01;21aNAIL028x01;NAIL028;Úvod do robotiky;3;840;SW2;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL062x01;21aNAIL062x01;NAIL062;Výroková a predikátová logika;3;840;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x02;21aNAIL062x02;NAIL062;Výroková a predikátová logika;3;640;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x06;21aNAIL062x06;NAIL062;Výroková a predikátová logika;3;940;S1;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNCGD008x01;21aNCGD008x01;NCGD008;Praktikum z herního vývoje s øízeným kódem;3;540;SW1;90;1;;15;;Gemrot Jakub, Mgr., Ph.D., Vlachovský Karel, Bc.
+21aNDBI007x01;21aNDBI007x01;NDBI007;Databázové pøístupové metody;3;740;S1;90;1;;15;liche;Koupil Pavel, Ing.
+21aNDBI007x02;21aNDBI007x02;NDBI007;Databázové pøístupové metody;3;740;S1;90;2;;15;sude;Koupil Pavel, Ing.
+21aNDBI025x05;21aNDBI025x05;NDBI025;Databázové systémy;3;840;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x08;21aNDBI025x08;NDBI025;Databázové systémy;3;640;S7;90;2;;15;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI009p1;21aNDMI009p1;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;940;S9;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D., Kynèl Jan, Mgr., Ph.D.
+21aNDMI009x01;21aNDMI009x01;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;1040;S9;90;1;;16;;Kynèl Jan, Mgr., Ph.D., Opler Michal, Mgr.
+21aNDMI011p2;21aNDMI011p2;NDMI011;Kombinatorika a grafy 1;3;740;S9;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x01;21aNDMI011x01;NDMI011;Kombinatorika a grafy 1;3;1040;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNDMI011x03;21aNDMI011x03;NDMI011;Kombinatorika a grafy 1;3;740;S11;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI011x05;21aNDMI011x05;NDMI011;Kombinatorika a grafy 1;3;940;S6;90;1;;16;;Poljak Marian, Bc.
+21aNDMI011x07;21aNDMI011x07;NDMI011;Kombinatorika a grafy 1;3;840;S10;90;1;;15;;Penev Irena, Dr.
+21aNDMI084p1;21aNDMI084p1;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;3;840;S9;90;1;;16;;Kolman Petr, doc. Mgr., Ph.D.
+21aNMAI055x03;21aNMAI055x03;NMAI055;Matematická analýza 2;3;640;S10;90;1;;15;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI060p1;21aNMAI060p1;NMAI060;Pravdìpodobnostní metody;3;540;S9;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI062p2;21aNMAI062p2;NMAI062;Algebra 1;3;640;S4;90;1;;16;;Kompatscher Michael, Ph.D.
+21aNMAI073p1;21aNMAI073p1;NMAI073;Pravdìpodobnost a statistika 2;3;740;S4;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNMAI165x01;21aNMAI165x01;NMAI165;Praktikum z pravdìpodobnostních metod;3;640;S9;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNOPT042x01;21aNOPT042x01;NOPT042;Programování s omezujícími podmínkami;3;740;SU1;90;1;;15;;Bulín Jakub, RNDr., Ph.D.
+21aNPFL063p1;21aNPFL063p1;NPFL063;Úvod do obecné lingvistiky;3;940;S5;90;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL063x01;21aNPFL063x01;NPFL063;Úvod do obecné lingvistiky;3;1040;S8;45;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL070p1;21aNPFL070p1;NPFL070;Zdroje jazykových dat;3;640;SW1;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL070x01;21aNPFL070x01;NPFL070;Zdroje jazykových dat;3;690;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL100p1;21aNPFL100p1;NPFL100;Variabilita jazykù v èase a prostoru;3;840;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL100x01;21aNPFL100x01;NPFL100;Variabilita jazykù v èase a prostoru;3;890;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL121x01;21aNPFL121x01;NPFL121;Vybrané kapitoly z èeské gramatiky;3;540;S11;90;1;;16;;Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL132p1;21aNPFL132p1;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1040;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL132x01;21aNPFL132x01;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1140;SU1;45;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPGR003p1;21aNPGR003p1;NPGR003;Základy poèítaèové grafiky;3;640;S3;90;1;;15;;Pelikán Josef, RNDr.
+21aNPGR003x02;21aNPGR003x02;NPGR003;Základy poèítaèové grafiky;3;840;SU2;90;1;;16;;Pelikán Josef, RNDr.
+21aNPGR005x01;21aNPGR005x01;NPGR005;Semináø z poèítaèové grafiky a vidìní;3;840;S11;90;1;;16;;Wilkie Alexander, doc., Dr., Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR025p1;21aNPGR025p1;NPGR025;Introduction to Colour Science;3;940;S3;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR037x01;21aNPGR037x01;NPGR037;Praktikum z Matlabu;3;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p3;21aNPRG013p3;NPRG013;Programování v jazyce Java;3;540;S3;90;1;;15;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x04;21aNPRG013x04;NPRG013;Programování v jazyce Java;3;940;SU2;90;1;;16;;Dort Vlastimil, Mgr.
+21aNPRG035x08;21aNPRG035x08;NPRG035;Programování v jazyce C#;3;640;SW2;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x01;21aNPRG041x01;NPRG041;Programování v C++;3;740;SU2;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x04;21aNPRG041x04;NPRG041;Programování v C++;3;740;SW2;90;1;;16;;Svoboda Martin, RNDr., Ph.D.
+21aNPRG041x09;21aNPRG041x09;NPRG041;Programování v C++;3;940;SW2;90;1;;15;;Svoboda Martin, RNDr., Ph.D.
+21aNSWI098p1;21aNSWI098p1;NSWI098;Principy pøekladaèù;3;740;S3;90;1;;16;;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI098x01;21aNSWI098x01;NSWI098;Principy pøekladaèù;3;840;S1;90;2;;15;sude;Bednárek David, RNDr., Ph.D.
+21aNSWI098x02;21aNSWI098x02;NSWI098;Principy pøekladaèù;3;840;S1;90;1;;15;liche;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI101p1;21aNSWI101p1;NSWI101;Modely a verifikace chování systémù;3;640;S1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI101x01;21aNSWI101x01;NSWI101;Modely a verifikace chování systémù;3;740;S8;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI106p1;21aNSWI106p1;NSWI106;Administrace Linuxu;3;840;S3;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI133x01;21aNSWI133x01;NSWI133;Firemní semináøe;3;1040;S5;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI142p2;21aNSWI142p2;NSWI142;Programování webových aplikací;3;540;S4;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x02;21aNSWI142x02;NSWI142;Programování webových aplikací;3;640;SU2;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI144p1;21aNSWI144p1;NSWI144;Data na Webu;3;540;S5;90;1;;16;;Klímek Jakub, RNDr., Ph.D.
+21aNSWI144x01;21aNSWI144x01;NSWI144;Data na Webu;3;940;SW1;90;2;;13;sude;Klímek Jakub, RNDr., Ph.D.
+21aNSWI150p1;21aNSWI150p1;NSWI150;Virtualizace a cloud computing;3;940;S4;90;1;;16;;Yaghob Jakub, RNDr., Ph.D., Bednárek David, RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNSWI154x01;21aNSWI154x01;NSWI154;Nástroje pro vývoj software;3;640;SU1;90;1;;15;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI166p1;21aNSWI166p1;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;840;S4;90;2;;16;;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNSWI166x01;21aNSWI166x01;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;940;S10;90;1;;16;liche;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNTIN061x02;21aNTIN061x02;NTIN061;Algoritmy a datové struktury 2;3;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNTIN061x09;21aNTIN061x09;NTIN061;Algoritmy a datové struktury 2;3;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN066x01;21aNTIN066x01;NTIN066;Datové struktury 1;3;940;S7;90;1;;16;;Mièka Ondøej, Mgr.
+21aNTIN066x05;21aNTIN066x05;NTIN066;Datové struktury 1;3;640;S11;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+;R110754519;;Projekty;3;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+21aNAIL025p1;21aNAIL025p1;NAIL025;Evoluèní algoritmy 1;2;940;S5;90;1;;15;;Neruda Roman, Mgr., CSc.
+21aNAIL025x03;21aNAIL025x03;NAIL025;Evoluèní algoritmy 1;2;840;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062p2;21aNAIL062p2;NAIL062;Výroková a predikátová logika;2;640;S9;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL069x03;21aNAIL069x03;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x04;21aNAIL069x04;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL104p1;21aNAIL104p1;NAIL104;Pravdìpodobnostní grafické modely;2;640;S5;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNCGD003p1;21aNCGD003p1;NCGD003;Programování herních mechanik;2;540;SW2;45;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD003x01;21aNCGD003x01;NCGD003;Programování herních mechanik;2;590;SW2;90;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD009p1;21aNCGD009p1;NCGD009;Adaptivní hudba a interaktivní zvuk;2;840;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNCGD009x01;21aNCGD009x01;NCGD009;Adaptivní hudba a interaktivní zvuk;2;940;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNDBI025p2;21aNDBI025p2;NDBI025;Databázové systémy;2;840;S4;90;1;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x03;21aNDBI025x03;NDBI025;Databázové systémy;2;1040;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI034p1;21aNDBI034p1;NDBI034;Vyhledávání multimediálního obsahu na webu;2;740;S9;90;1;;15;;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDBI034x01;21aNDBI034x01;NDBI034;Vyhledávání multimediálního obsahu na webu;2;840;S8;90;2;;13;sude;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDIN011p1;21aNDIN011p1;NDIN011;Aplikaèní software;2;1040;SW1;90;1;;16;;Forstová Lenka, Mgr.
+21aNDIN011x01;21aNDIN011x01;NDIN011;Aplikaèní software;2;1140;SW1;45;1;;16;;Forstová Lenka, Mgr.
+21aNDMI002x11;21aNDMI002x11;NDMI002;Diskrétní matematika;2;540;S6;90;1;;16;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI002x12;21aNDMI002x12;NDMI002;Diskrétní matematika;2;540;S7;90;1;;16;;Mikšaník David
+21aNDMI002x15;21aNDMI002x15;NDMI002;Diskrétní matematika;2;540;S8;90;1;;16;;Chmel Petr, Bc.
+21aNDMI028p1;21aNDMI028p1;NDMI028;Aplikace lineární algebry v kombinatorice;2;540;S9;90;1;;16;;Kratochvíl Jan, prof. RNDr., CSc.
+21aNDMI028x01;21aNDMI028x01;NDMI028;Aplikace lineární algebry v kombinatorice;2;640;S8;90;1;;16;;Bok Jan, Mgr.
+21aNDMI084x01;21aNDMI084x01;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;2;940;S7;90;2;;16;sude;Lieskovský Matej, Mgr.
+21aNMAI055p2;21aNMAI055p2;NMAI055;Matematická analýza 2;2;940;S9;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057p2;21aNMAI057p2;NMAI057;Lineární algebra 1;2;740;S3;90;1;;15;;Fiala Jiøí, doc. RNDr., Ph.D.
+21aNMAI062x03;21aNMAI062x03;NMAI062;Algebra 1;2;840;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI062x04;21aNMAI062x04;NMAI062;Algebra 1;2;940;S10;90;1;;16;;Berg Kevin
+21aNOPT042p1;21aNOPT042p1;NOPT042;Programování s omezujícími podmínkami;2;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNPFL012p1;21aNPFL012p1;NPFL012;Úvod do poèítaèové lingvistiky;2;1040;S3;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL012p2;21aNPFL012p2;NPFL012;Úvod do poèítaèové lingvistiky;2;740;S6;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL067p1;21aNPFL067p1;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;540;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL067x01;21aNPFL067x01;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;740;SU2;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL103p1;21aNPFL103p1;NPFL103;Vyhledávání informací;2;840;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL103x01;21aNPFL103x01;NPFL103;Vyhledávání informací;2;940;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL122x02;21aNPFL122x02;NPFL122;Hluboké zpìtnovazební uèení;2;840;S7;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x01;21aNPFL129x01;NPFL129;Úvod do strojového uèení v Pythonu;2;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x02;21aNPFL129x02;NPFL129;Úvod do strojového uèení v Pythonu;2;640;S4;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003x04;21aNPGR003x04;NPGR003;Základy poèítaèové grafiky;2;940;SW2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPRG013x06;21aNPRG013x06;NPRG013;Programování v jazyce Java;2;540;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG035x06;21aNPRG035x06;NPRG035;Programování v jazyce C#;2;1040;SW2;90;1;;16;;Zikmund Radek, Mgr.
+21aNPRG062p2;21aNPRG062p2;NPRG062;Algoritmizace;2;840;S3;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI035p1;21aNSWI035p1;NSWI035;Principy distribuovaných systémù;2;740;S4;90;1;;14;;Zavoral Filip, RNDr., Ph.D.
+21aNSWI057x01;21aNSWI057x01;NSWI057;Výbìrový semináø z distribuovaných a komponentových systémù I;2;840;S9;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI089p1;21aNSWI089p1;NSWI089;Ochrana informací 1;2;1040;S5;90;1;;16;;Beneš Antonín, RNDr., Ph.D.
+21aNSWI106x01;21aNSWI106x01;NSWI106;Administrace Linuxu;2;640;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI141p2;21aNSWI141p2;NSWI141;Úvod do poèítaèových sítí;2;640;S3;90;1;;15;;Forst Libor, RNDr., Pešková Klára, Mgr., Ph.D.
+21aNSWI164x01;21aNSWI164x01;NSWI164;Modelem øízený vývoj;2;740;SU1;90;1;;15;liche;Bureš Tomáš, prof. RNDr., Ph.D.
+21aNTIN022p1;21aNTIN022p1;NTIN022;Pravdìpodobnostní techniky;2;740;S5;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D.
+21aNTIN043p1;21aNTIN043p1;NTIN043;Formální základy softwarového inženýrství;2;640;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN043x01;21aNTIN043x01;NTIN043;Formální základy softwarového inženýrství;2;740;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061p2;21aNTIN061p2;NTIN061;Algoritmy a datové struktury 2;2;540;S4;90;1;;16;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNTIN061x07;21aNTIN061x07;NTIN061;Algoritmy a datové struktury 2;2;740;S7;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN066x02;21aNTIN066x02;NTIN066;Datové struktury 1;2;940;S6;90;1;;16;;Ondráèek Lukáš, Mgr.
+21aNTIN090p2;21aNTIN090p2;NTIN090;Základy složitosti a vyèíslitelnosti;2;840;S5;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x02;21aNTIN090x02;NTIN090;Základy složitosti a vyèíslitelnosti;2;640;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN102x01;21aNTIN102x01;NTIN102;Semináø z teoretické informatiky;2;690;S1;135;1;;15;;Koucký Michal, prof. Mgr., Ph.D., Sgall Jiøí, prof. RNDr., DrSc., Èepek Ondøej, doc. RNDr., Ph.D., Kolman Petr, doc. Mgr., Ph.D., Feldmann Andreas Emil, Dr., Hubáèek Pavel, Mgr., Ph.D.
+;R110742008;;Sebranka;2;1140;S8;150;1;;15;; 
+;R110754518;;Projekty;2;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+RG110762645;R110762646;;;2;1140;S8;180;;11.1.2022;5;;Bednárek David, RNDr., Ph.D.
+21aNAIL060p1;21aNAIL060p1;NAIL060;Implementace neuronových sítí 1;4;940;S4;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL060x01;21aNAIL060x01;NAIL060;Implementace neuronových sítí 1;4;1040;SW1;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL062x04;21aNAIL062x04;NAIL062;Výroková a predikátová logika;4;540;S6;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL099x01;21aNAIL099x01;NAIL099;Semináø strojového uèení a modelování 1;4;840;S8;90;2;;16;sude;Holeòa Martin, prof. RNDr. Ing., CSc.
+21aNDBI007p1;21aNDBI007p1;NDBI007;Databázové pøístupové metody;4;640;S3;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI007p2;21aNDBI007p2;NDBI007;Databázové pøístupové metody;4;540;S1;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI025x01;21aNDBI025x01;NDBI025;Databázové systémy;4;940;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x07;21aNDBI025x07;NDBI025;Databázové systémy;4;540;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI048p1;21aNDBI048p1;NDBI048;Data Science;4;740;S5;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI048x01;21aNDBI048x01;NDBI048;Data Science;4;840;SW1;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDMI002p2;21aNDMI002p2;NDMI002;Diskrétní matematika;4;840;S3;90;1;;15;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI011x04;21aNDMI011x04;NDMI011;Kombinatorika a grafy 1;4;540;S10;90;1;;16;;Lieskovský Matej, Mgr.
+21aNDMI011x06;21aNDMI011x06;NDMI011;Kombinatorika a grafy 1;4;940;S7;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x08;21aNDMI011x08;NDMI011;Kombinatorika a grafy 1;4;640;S6;90;1;;16;;Èermák Filip, Bc.
+21aNDMI050x01;21aNDMI050x01;NDMI050;Úvod do øešení problémù kombinatorických, mat. i jiných (IPS) I;4;1159;S3;90;1;;15;;Mareš Martin, Mgr., Ph.D., Konèický Václav, Bc.
+21aNDMI098p1;21aNDMI098p1;NDMI098;Algoritmická teorie her;4;840;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNDMI098x01;21aNDMI098x01;NDMI098;Algoritmická teorie her;4;940;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNMAI055p1;21aNMAI055p1;NMAI055;Matematická analýza 2;4;540;S5;90;1;;16;;Pultr Aleš, prof. RNDr., DrSc.
+21aNMAI055x01;21aNMAI055x01;NMAI055;Matematická analýza 2;4;640;S10;90;1;;16;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI055x02;21aNMAI055x02;NMAI055;Matematická analýza 2;4;640;S7;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI055x04;21aNMAI055x04;NMAI055;Matematická analýza 2;4;640;S11;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057x21;21aNMAI057x21;NMAI057;Lineární algebra 1;4;840;S7;90;1;;15;;Èerný Martin, Bc., Zeman Peter, Mgr.
+21aNMAI060p2;21aNMAI060p2;NMAI060;Pravdìpodobnostní metody;4;540;S8;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI165x02;21aNMAI165x02;NMAI165;Praktikum z pravdìpodobnostních metod;4;640;S8;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMIN263p1;21aNMIN263p1;NMIN263;Principy poèítaèù a operaèní systémy;4;1040;S1;90;1;;16;;Jákl Vojtìch, RNDr.
+21aNPFL006p1;21aNPFL006p1;NPFL006;Úvod do formální lingvistiky;4;640;S1;90;1;;16;;Ševèíková Magda, Mgr., Ph.D.
+21aNPFL015x01;21aNPFL015x01;NPFL015;Metody automatizovaného pøekladu;4;840;S10;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL038p1;21aNPFL038p1;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;940;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL038x01;21aNPFL038x01;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;1040;SU2;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL092p1;21aNPFL092p1;NPFL092;Technologie pro NLP;4;740;S421;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL092x01;21aNPFL092x01;NPFL092;Technologie pro NLP;4;640;S421;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL094p1;21aNPFL094p1;NPFL094;Morfologická a syntaktická analýza;4;840;SU1;90;1;;16;;Zeman Daniel, RNDr., Ph.D.
+21aNPFL097p1;21aNPFL097p1;NPFL097;Neøízené strojové uèení v NLP;4;540;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL097x01;21aNPFL097x01;NPFL097;Neøízené strojové uèení v NLP;4;590;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL125x01;21aNPFL125x01;NPFL125;Základy jazykových technologií;4;640;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPGR035x02;21aNPGR035x02;NPGR035;Strojové uèení v poèítaèovém vidìní;4;540;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR039p1;21aNPGR039p1;NPGR039;Úvod do animované tvorby;4;540;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPGR039x01;21aNPGR039x01;NPGR039;Úvod do animované tvorby;4;590;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPRG013x01;21aNPRG013x01;NPRG013;Programování v jazyce Java;4;640;SU2;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG030p2;21aNPRG030p2;NPRG030;Programování 1;4;740;S3;90;1;;15;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035x01;21aNPRG035x01;NPRG035;Programování v jazyce C#;4;840;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x04;21aNPRG035x04;NPRG035;Programování v jazyce C#;4;1040;SW2;90;1;;16;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041p2;21aNPRG041p2;NPRG041;Programování v C++;4;840;S4;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG041x05;21aNPRG041x05;NPRG041;Programování v C++;4;1040;S7;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x06;21aNPRG041x06;NPRG041;Programování v C++;4;740;SW2;90;1;;16;;Faltín Tomáš, Mgr.
+21aNPRG041x08;21aNPRG041x08;NPRG041;Programování v C++;4;540;SW2;90;1;;15;;Šmelko Adam, Mgr.
+21aNPRG059x01;21aNPRG059x01;NPRG059;Praktikum z pokroèilého objektového programování;4;1090;S7;45;1;;16;;Ježek Pavel, Mgr., Ph.D., Hnìtynka Petr, doc. RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNPRG068p1;21aNPRG068p1;NPRG068;Programování v Haskellu;4;740;S4;90;1;;16;;Kratochvíl Miroslav, RNDr., Ph.D.
+21aNSWI015p1;21aNSWI015p1;NSWI015;Unix/Linux Programming in C;4;540;S4;90;1;;16;;Pechanec Jan, Mgr., Kotal Vladimír, Mgr.
+21aNSWI015x01;21aNSWI015x01;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;1;;16;liche;Kotal Vladimír, Mgr.
+21aNSWI015x02;21aNSWI015x02;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;2;;16;sude;Kotal Vladimír, Mgr.
+21aNSWI106x03;21aNSWI106x03;NSWI106;Administrace Linuxu;4;940;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI130x01;21aNSWI130x01;NSWI130;Architektury softwarových systémù;4;840;S6;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI130x02;21aNSWI130x02;NSWI130;Architektury softwarových systémù;4;740;S8;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142x01;21aNSWI142x01;NSWI142;Programování webových aplikací;4;940;SW2;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNSWI142x04;21aNSWI142x04;NSWI142;Programování webových aplikací;4;640;SW2;90;1;;16;;Peška Ladislav, Mgr., Ph.D.
+21aNSWI142x05;21aNSWI142x05;NSWI142;Programování webových aplikací;4;1040;SU1;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x06;21aNSWI142x06;NSWI142;Programování webových aplikací;4;540;SU2;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI162x01;21aNSWI162x01;NSWI162;Sémantika programù;4;740;SU2;90;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI163x01;21aNSWI163x01;NSWI163;Úvod do middleware;4;740;SU2;90;2;;16;sude;Tùma Petr, prof. Ing., Dr.
+21aNTIN022x01;21aNTIN022x01;NTIN022;Pravdìpodobnostní techniky;4;740;S1;90;1;;16;;Koneèný Matìj, RNDr., Bulavka Denys, Mgr.
+21aNTIN046x01;21aNTIN046x01;NTIN046;Rozpoznávání a syntaktická analýza;4;840;S1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc., Plátek Martin, CSc.
+21aNTIN061x05;21aNTIN061x05;NTIN061;Algoritmy a datové struktury 2;4;1040;S6;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x08;21aNTIN061x08;NTIN061;Algoritmy a datové struktury 2;4;940;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066p1;21aNTIN066p1;NTIN066;Datové struktury 1;4;840;S5;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+21aNTIN090p1;21aNTIN090p1;NTIN090;Základy složitosti a vyèíslitelnosti;4;540;S3;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x01;21aNTIN090x01;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x05;21aNTIN090x05;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;2;;16;sude;Bulín Jakub, RNDr., Ph.D.
+;R110741999;;Polední pøednášky KAM;4;740;S6;90;1;;8;; 
+;R110742024;;Polední pøednášky KAM;4;740;S6;90;10;;6;; 
+;R110754520;;Projekty;4;1140;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+;R110761385;;;4;540;S510;180;;30.9.2021;1;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNAIL025x01;21aNAIL025x01;NAIL025;Evoluèní algoritmy 1;5;740;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x03;21aNAIL062x03;NAIL062;Výroková a predikátová logika;5;540;S7;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x08;21aNAIL062x08;NAIL062;Výroková a predikátová logika;5;540;S10;90;1;;16;;Hric Jan, RNDr.
+21aNAIL087p1;21aNAIL087p1;NAIL087;Informatika a kognitivní vìdy 1;5;540;S4;90;1;;16;;Lukavský Jiøí, Mgr., Ph.D., Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL087x01;21aNAIL087x01;NAIL087;Informatika a kognitivní vìdy 1;5;640;S4;90;1;;16;;Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL116p1;21aNAIL116p1;NAIL116;Sociální sítì a jejich analýza;5;640;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL116x01;21aNAIL116x01;NAIL116;Sociální sítì a jejich analýza;5;540;SW1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNCGD002p1;21aNCGD002p1;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD002x01;21aNCGD002x01;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004p1;21aNCGD004p1;NCGD004;Úvod do herního designu;5;640;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004x01;21aNCGD004x01;NCGD004;Úvod do herního designu;5;690;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNDBI025x02;21aNDBI025x02;NDBI025;Databázové systémy;5;540;S11;90;2;;15;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x04;21aNDBI025x04;NDBI025;Databázové systémy;5;740;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI002x14;21aNDMI002x14;NDMI002;Diskrétní matematika;5;640;S6;90;1;;16;;Hons Tomáš, Bc.
+21aNDMI011x02;21aNDMI011x02;NDMI011;Kombinatorika a grafy 1;5;640;S10;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI084p2;21aNDMI084p2;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;5;640;S3;90;1;;16;;Sgall Jiøí, prof. RNDr., DrSc.
+21aNJAZ201x01;21aNJAZ201x01;NJAZ201;Academic Writing for Mathematicians I;5;690;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNJAZ203x01;21aNJAZ203x01;NJAZ203;Academic Writing for Computer Scientists I;5;790;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNMAI062p1;21aNMAI062p1;NMAI062;Algebra 1;5;540;S5;90;1;;16;;Patáková Zuzana, RNDr., Ph.D.
+21aNMAI069x09;21aNMAI069x09;NMAI069;Matematické dovednosti;5;540;S6;90;1;;16;;Kynèl Jan, Mgr., Ph.D.
+21aNPGR003x05;21aNPGR003x05;NPGR003;Základy poèítaèové grafiky;5;540;SU2;90;1;;15;;Tázlar Vojtìch, Mgr.
+21aNPRG013x05;21aNPRG013x05;NPRG013;Programování v jazyce Java;5;740;SU1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG035x02;21aNPRG035x02;NPRG035;Programování v jazyce C#;5;640;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x03;21aNPRG035x03;NPRG035;Programování v jazyce C#;5;540;SW2;90;1;;16;;Pacovský Jan, Mgr.
+21aNPRG041x03;21aNPRG041x03;NPRG041;Programování v C++;5;740;SW2;90;1;;16;;Husák Robert, Mgr. Ing.
+21aNPRG041x07;21aNPRG041x07;NPRG041;Programování v C++;5;640;SU2;90;1;;16;;Drozdík Tomáš, Bc.
+21aNSWI004p1;21aNSWI004p1;NSWI004;Operaèní systémy;5;540;S3;90;1;;16;;Tùma Petr, prof. Ing., Dr.
+21aNSWI004x01;21aNSWI004x01;NSWI004;Operaèní systémy;5;740;S9;90;1;;16;liche;Bulej Lubomír, doc. Ing., Ph.D.
+21aNSWI004x02;21aNSWI004x02;NSWI004;Operaèní systémy;5;740;S9;90;2;;16;sude;Horký Vojtìch, Mgr., Ph.D.
+21aNTIN061x01;21aNTIN061x01;NTIN061;Algoritmy a datové struktury 2;5;640;S7;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN061x03;21aNTIN061x03;NTIN061;Algoritmy a datové struktury 2;5;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x06;21aNTIN061x06;NTIN061;Algoritmy a datové struktury 2;5;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNUIN021p1;21aNUIN021p1;NUIN021;Algoritmy a automaty pro uèitele;5;740;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+21aNUIN021x01;21aNUIN021x01;NUIN021;Algoritmy a automaty pro uèitele;5;840;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+;R110742005;;Experiment vyukove simulace;5;690;SW1;470;1;;13;; 
+21aNAIL002p1;21aNAIL002p1;NAIL002;Neuronové sítì;1;840;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL002x01;21aNAIL002x01;NAIL002;Neuronové sítì;1;740;SU2;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL062x05;21aNAIL062x05;NAIL062;Výroková a predikátová logika;1;740;S11;90;1;;16;;Hric Jan, RNDr.
+21aNAIL062x07;21aNAIL062x07;NAIL062;Výroková a predikátová logika;1;740;S7;90;1;;16;;Pantùèková Kristýna, Mgr.
+21aNAIL069p1;21aNAIL069p1;NAIL069;Umìlá inteligence 1;1;640;S3;90;1;;15;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069p2;21aNAIL069p2;NAIL069;Umìlá inteligence 1;1;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069x01;21aNAIL069x01;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x02;21aNAIL069x02;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL122p1;21aNAIL122p1;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D.
+21aNAIL122x01;21aNAIL122x01;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D.
+21aNDBI025x06;21aNDBI025x06;NDBI025;Databázové systémy;1;1040;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI044p1;21aNDBI044p1;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;940;S4;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDBI044x01;21aNDBI044x01;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;1040;S8;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDMI002x13;21aNDMI002x13;NDMI002;Diskrétní matematika;1;740;S6;90;1;;16;;Skotnica Michael, Mgr.
+21aNDMI084x02;21aNDMI084x02;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;1;940;S7;90;1;;16;liche;Lieskovský Matej, Mgr.
+21aNMAI057x16;21aNMAI057x16;NMAI057;Lineární algebra 1;1;840;S6;90;1;;16;;Hubáèek Pavel, Mgr., Ph.D.
+21aNMAI062x01;21aNMAI062x01;NMAI062;Algebra 1;1;640;S6;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI062x02;21aNMAI062x02;NMAI062;Algebra 1;1;740;S8;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI073x01;21aNMAI073x01;NMAI073;Pravdìpodobnost a statistika 2;1;1040;S6;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNPFL004x01;21aNPFL004x01;NPFL004;Semináø z formální lingvistiky;1;840;S1;100;1;;16;;Hajièová Eva, prof. PhDr., DrSc.
+21aNPFL099p1;21aNPFL099p1;NPFL099;Statistické dialogové systémy;1;940;S10;90;1;;16;;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL099x01;21aNPFL099x01;NPFL099;Statistické dialogové systémy;1;1040;S10;45;1;;15;liche;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL101x01;21aNPFL101x01;NPFL101;Soutìžní strojový pøeklad;1;540;SU1;90;1;;16;;Bojar Ondøej, doc. RNDr., Ph.D.
+21aNPFL122p1;21aNPFL122p1;NPFL122;Hluboké zpìtnovazební uèení;1;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL122x01;21aNPFL122x01;NPFL122;Hluboké zpìtnovazební uèení;1;640;S1;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129p2;21aNPFL129p2;NPFL129;Úvod do strojového uèení v Pythonu;1;740;S5;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003p2;21aNPGR003p2;NPGR003;Základy poèítaèové grafiky;1;540;S4;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR003x01;21aNPGR003x01;NPGR003;Základy poèítaèové grafiky;1;940;SU2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPGR003x03;21aNPGR003x03;NPGR003;Základy poèítaèové grafiky;1;640;SW2;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR035p1;21aNPGR035p1;NPGR035;Strojové uèení v poèítaèovém vidìní;1;640;S9;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR035x01;21aNPGR035x01;NPGR035;Strojové uèení v poèítaèovém vidìní;1;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p2;21aNPRG013p2;NPRG013;Programování v jazyce Java;1;840;S4;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x02;21aNPRG013x02;NPRG013;Programování v jazyce Java;1;940;SW1;90;1;;16;;Khalyeyev Danylo, Mgr.
+21aNPRG014x01;21aNPRG014x01;NPRG014;Koncepty moderních programovacích jazykù;1;840;S3;180;1;;16;;Bureš Tomáš, prof. RNDr., Ph.D., Pech Václav, Mgr.
+21aNPRG030x12;21aNPRG030x12;NPRG030;Programování 1;1;1040;SW2;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035p2;21aNPRG035p2;NPRG035;Programování v jazyce C#;1;740;S9;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x02;21aNPRG041x02;NPRG041;Programování v C++;1;740;SW2;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG056x01;21aNPRG056x01;NPRG056;Programování mobilních zaøízení;1;640;S4;180;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D., Prokop Lukáš
+21aNPRG062x11;21aNPRG062x11;NPRG062;Algoritmizace;1;990;SW2;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG067x01;21aNPRG067x01;NPRG067;Python pro praxi;1;640;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D., Bureš Tomáš, prof. RNDr., Ph.D., Peška Ladislav, Mgr., Ph.D.
+21aNPRG073x01;21aNPRG073x01;NPRG073;Programování v jazyce Rust;1;540;S1;90;1;;15;liche;Vaner Michal, Mgr., Šimerda Pavel
+21aNSWI072p1;21aNSWI072p1;NSWI072;Algoritmy komprese dat;1;640;S5;90;1;;16;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI130p1;21aNSWI130p1;NSWI130;Architektury softwarových systémù;1;1040;S3;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142p1;21aNSWI142p1;NSWI142;Programování webových aplikací;1;740;S3;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI154x03;21aNSWI154x03;NSWI154;Nástroje pro vývoj software;1;840;SU2;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061x04;21aNTIN061x04;NTIN061;Algoritmy a datové struktury 2;1;740;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066x03;21aNTIN066x03;NTIN066;Datové struktury 1;1;940;S6;90;1;;16;;Fink Jiøí, RNDr., Ph.D.
+21aNTIN066x04;21aNTIN066x04;NTIN066;Datové struktury 1;1;640;S7;90;1;;16;;Vu Tung Anh, Mgr.
+21aNTIN087p1;21aNTIN087p1;NTIN087;Textové algoritmy;1;840;S9;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNTIN090x03;21aNTIN090x03;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;2;;16;sude;Majerech Vladan, Mgr., Dr.
+21aNTIN090x04;21aNTIN090x04;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;1;;16;liche;Majerech Vladan, Mgr., Dr.
+21aNUIN018p1;21aNUIN018p1;NUIN018;Vývoj poèítaèových her - pro uèitele;1;640;SW1;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN018x01;21aNUIN018x01;NUIN018;Vývoj poèítaèových her - pro uèitele;1;740;SW1;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN019p1;21aNUIN019p1;NUIN019;Základy tvorby webu;1;790;SW1;45;1;;16;;Pešková Klára, Mgr., Ph.D.
+21aNUIN019x01;21aNUIN019x01;NUIN019;Základy tvorby webu;1;840;SW1;90;1;;16;;Pešková Klára, Mgr., Ph.D.
+;R110742003;;Schuze UFAL;1;790;S1;50;1;;13;; 
+;R110742007;;Gaudeamus Pikurus;1;1080;S1;180;1;;14;; 
+21aNAIL002p1;21aNAIL002p1b;NAIL002;Neuronové sítì;3;840;S5;90;1;;15;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL004x01;21aNAIL004x01;NAIL004;Semináø z umìlé inteligence 1;3;640;S8;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL025x02;21aNAIL025x02;NAIL025;Evoluèní algoritmy 1;3;1040;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL028p1;21aNAIL028p1;NAIL028;Úvod do robotiky;3;640;S5;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL028x01;21aNAIL028x01;NAIL028;Úvod do robotiky;3;840;SW2;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL062x01;21aNAIL062x01;NAIL062;Výroková a predikátová logika;3;840;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x02;21aNAIL062x02;NAIL062;Výroková a predikátová logika;3;640;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x06;21aNAIL062x06;NAIL062;Výroková a predikátová logika;3;940;S1;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNCGD008x01;21aNCGD008x01;NCGD008;Praktikum z herního vývoje s øízeným kódem;3;540;SW1;90;1;;15;;Gemrot Jakub, Mgr., Ph.D., Vlachovský Karel, Bc.
+21aNDBI007x01;21aNDBI007x01;NDBI007;Databázové pøístupové metody;3;740;S1;90;1;;15;liche;Koupil Pavel, Ing.
+21aNDBI007x02;21aNDBI007x02;NDBI007;Databázové pøístupové metody;3;740;S1;90;2;;15;sude;Koupil Pavel, Ing.
+21aNDBI025x05;21aNDBI025x05;NDBI025;Databázové systémy;3;840;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x08;21aNDBI025x08;NDBI025;Databázové systémy;3;640;S7;90;2;;15;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI009p1;21aNDMI009p1;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;940;S9;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D., Kynèl Jan, Mgr., Ph.D.
+21aNDMI009x01;21aNDMI009x01;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;1040;S9;90;1;;16;;Kynèl Jan, Mgr., Ph.D., Opler Michal, Mgr.
+21aNDMI011p2;21aNDMI011p2;NDMI011;Kombinatorika a grafy 1;3;740;S9;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x01;21aNDMI011x01;NDMI011;Kombinatorika a grafy 1;3;1040;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNDMI011x03;21aNDMI011x03;NDMI011;Kombinatorika a grafy 1;3;740;S11;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI011x05;21aNDMI011x05;NDMI011;Kombinatorika a grafy 1;3;940;S6;90;1;;16;;Poljak Marian, Bc.
+21aNDMI011x07;21aNDMI011x07;NDMI011;Kombinatorika a grafy 1;3;840;S10;90;1;;15;;Penev Irena, Dr.
+21aNDMI084p1;21aNDMI084p1;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;3;840;S9;90;1;;16;;Kolman Petr, doc. Mgr., Ph.D.
+21aNMAI055x03;21aNMAI055x03;NMAI055;Matematická analýza 2;3;640;S10;90;1;;15;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI060p1;21aNMAI060p1;NMAI060;Pravdìpodobnostní metody;3;540;S9;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI062p2;21aNMAI062p2;NMAI062;Algebra 1;3;640;S4;90;1;;16;;Kompatscher Michael, Ph.D.
+21aNMAI073p1;21aNMAI073p1;NMAI073;Pravdìpodobnost a statistika 2;3;740;S4;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNMAI165x01;21aNMAI165x01;NMAI165;Praktikum z pravdìpodobnostních metod;3;640;S9;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNOPT042x01;21aNOPT042x01;NOPT042;Programování s omezujícími podmínkami;3;740;SU1;90;1;;15;;Bulín Jakub, RNDr., Ph.D.
+21aNPFL063p1;21aNPFL063p1;NPFL063;Úvod do obecné lingvistiky;3;940;S5;90;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL063x01;21aNPFL063x01;NPFL063;Úvod do obecné lingvistiky;3;1040;S8;45;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL070p1;21aNPFL070p1;NPFL070;Zdroje jazykových dat;3;640;SW1;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL070x01;21aNPFL070x01;NPFL070;Zdroje jazykových dat;3;690;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL100p1;21aNPFL100p1;NPFL100;Variabilita jazykù v èase a prostoru;3;840;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL100x01;21aNPFL100x01;NPFL100;Variabilita jazykù v èase a prostoru;3;890;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL121x01;21aNPFL121x01;NPFL121;Vybrané kapitoly z èeské gramatiky;3;540;S11;90;1;;16;;Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL132p1;21aNPFL132p1;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1040;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL132x01;21aNPFL132x01;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1140;SU1;45;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPGR003p1;21aNPGR003p1;NPGR003;Základy poèítaèové grafiky;3;640;S3;90;1;;15;;Pelikán Josef, RNDr.
+21aNPGR003x02;21aNPGR003x02;NPGR003;Základy poèítaèové grafiky;3;840;SU2;90;1;;16;;Pelikán Josef, RNDr.
+21aNPGR005x01;21aNPGR005x01;NPGR005;Semináø z poèítaèové grafiky a vidìní;3;840;S11;90;1;;16;;Wilkie Alexander, doc., Dr., Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR025p1;21aNPGR025p1;NPGR025;Introduction to Colour Science;3;940;S3;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR037x01;21aNPGR037x01;NPGR037;Praktikum z Matlabu;3;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p3;21aNPRG013p3;NPRG013;Programování v jazyce Java;3;540;S3;90;1;;15;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x04;21aNPRG013x04;NPRG013;Programování v jazyce Java;3;940;SU2;90;1;;16;;Dort Vlastimil, Mgr.
+21aNPRG035x08;21aNPRG035x08;NPRG035;Programování v jazyce C#;3;640;SW2;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x01;21aNPRG041x01;NPRG041;Programování v C++;3;740;SU2;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x04;21aNPRG041x04;NPRG041;Programování v C++;3;740;SW2;90;1;;16;;Svoboda Martin, RNDr., Ph.D.
+21aNPRG041x09;21aNPRG041x09;NPRG041;Programování v C++;3;940;SW2;90;1;;15;;Svoboda Martin, RNDr., Ph.D.
+21aNSWI098p1;21aNSWI098p1;NSWI098;Principy pøekladaèù;3;740;S3;90;1;;16;;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI098x01;21aNSWI098x01;NSWI098;Principy pøekladaèù;3;840;S1;90;2;;15;sude;Bednárek David, RNDr., Ph.D.
+21aNSWI098x02;21aNSWI098x02;NSWI098;Principy pøekladaèù;3;840;S1;90;1;;15;liche;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI101p1;21aNSWI101p1;NSWI101;Modely a verifikace chování systémù;3;640;S1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI101x01;21aNSWI101x01;NSWI101;Modely a verifikace chování systémù;3;740;S8;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI106p1;21aNSWI106p1;NSWI106;Administrace Linuxu;3;840;S3;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI133x01;21aNSWI133x01;NSWI133;Firemní semináøe;3;1040;S5;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI142p2;21aNSWI142p2;NSWI142;Programování webových aplikací;3;540;S4;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x02;21aNSWI142x02;NSWI142;Programování webových aplikací;3;640;SU2;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI144p1;21aNSWI144p1;NSWI144;Data na Webu;3;540;S5;90;1;;16;;Klímek Jakub, RNDr., Ph.D.
+21aNSWI144x01;21aNSWI144x01;NSWI144;Data na Webu;3;940;SW1;90;2;;13;sude;Klímek Jakub, RNDr., Ph.D.
+21aNSWI150p1;21aNSWI150p1;NSWI150;Virtualizace a cloud computing;3;940;S4;90;1;;16;;Yaghob Jakub, RNDr., Ph.D., Bednárek David, RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNSWI154x01;21aNSWI154x01;NSWI154;Nástroje pro vývoj software;3;640;SU1;90;1;;15;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI166p1;21aNSWI166p1;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;840;S4;90;2;;16;;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNSWI166x01;21aNSWI166x01;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;940;S10;90;1;;16;liche;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNTIN061x02;21aNTIN061x02;NTIN061;Algoritmy a datové struktury 2;3;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNTIN061x09;21aNTIN061x09;NTIN061;Algoritmy a datové struktury 2;3;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN066x01;21aNTIN066x01;NTIN066;Datové struktury 1;3;940;S7;90;1;;16;;Mièka Ondøej, Mgr.
+21aNTIN066x05;21aNTIN066x05;NTIN066;Datové struktury 1;3;640;S11;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+;R110754519;;Projekty;3;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+21aNAIL025p1;21aNAIL025p1;NAIL025;Evoluèní algoritmy 1;2;940;S5;90;1;;15;;Neruda Roman, Mgr., CSc.
+21aNAIL025x03;21aNAIL025x03;NAIL025;Evoluèní algoritmy 1;2;840;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062p2;21aNAIL062p2;NAIL062;Výroková a predikátová logika;2;640;S9;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL069x03;21aNAIL069x03;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x04;21aNAIL069x04;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL104p1;21aNAIL104p1;NAIL104;Pravdìpodobnostní grafické modely;2;640;S5;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNCGD003p1;21aNCGD003p1;NCGD003;Programování herních mechanik;2;540;SW2;45;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD003x01;21aNCGD003x01;NCGD003;Programování herních mechanik;2;590;SW2;90;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD009p1;21aNCGD009p1;NCGD009;Adaptivní hudba a interaktivní zvuk;2;840;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNCGD009x01;21aNCGD009x01;NCGD009;Adaptivní hudba a interaktivní zvuk;2;940;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNDBI025p2;21aNDBI025p2;NDBI025;Databázové systémy;2;840;S4;90;1;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x03;21aNDBI025x03;NDBI025;Databázové systémy;2;1040;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI034p1;21aNDBI034p1;NDBI034;Vyhledávání multimediálního obsahu na webu;2;740;S9;90;1;;15;;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDBI034x01;21aNDBI034x01;NDBI034;Vyhledávání multimediálního obsahu na webu;2;840;S8;90;2;;13;sude;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDIN011p1;21aNDIN011p1;NDIN011;Aplikaèní software;2;1040;SW1;90;1;;16;;Forstová Lenka, Mgr.
+21aNDIN011x01;21aNDIN011x01;NDIN011;Aplikaèní software;2;1140;SW1;45;1;;16;;Forstová Lenka, Mgr.
+21aNDMI002x11;21aNDMI002x11;NDMI002;Diskrétní matematika;2;540;S6;90;1;;16;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI002x12;21aNDMI002x12;NDMI002;Diskrétní matematika;2;540;S7;90;1;;16;;Mikšaník David
+21aNDMI002x15;21aNDMI002x15;NDMI002;Diskrétní matematika;2;540;S8;90;1;;16;;Chmel Petr, Bc.
+21aNDMI028p1;21aNDMI028p1;NDMI028;Aplikace lineární algebry v kombinatorice;2;540;S9;90;1;;16;;Kratochvíl Jan, prof. RNDr., CSc.
+21aNDMI028x01;21aNDMI028x01;NDMI028;Aplikace lineární algebry v kombinatorice;2;640;S8;90;1;;16;;Bok Jan, Mgr.
+21aNDMI084x01;21aNDMI084x01;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;2;940;S7;90;2;;16;sude;Lieskovský Matej, Mgr.
+21aNMAI055p2;21aNMAI055p2;NMAI055;Matematická analýza 2;2;940;S9;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057p2;21aNMAI057p2;NMAI057;Lineární algebra 1;2;740;S3;90;1;;15;;Fiala Jiøí, doc. RNDr., Ph.D.
+21aNMAI062x03;21aNMAI062x03;NMAI062;Algebra 1;2;840;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI062x04;21aNMAI062x04;NMAI062;Algebra 1;2;940;S10;90;1;;16;;Berg Kevin
+21aNOPT042p1;21aNOPT042p1;NOPT042;Programování s omezujícími podmínkami;2;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNPFL012p1;21aNPFL012p1;NPFL012;Úvod do poèítaèové lingvistiky;2;1040;S3;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL012p2;21aNPFL012p2;NPFL012;Úvod do poèítaèové lingvistiky;2;740;S6;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL067p1;21aNPFL067p1;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;540;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL067x01;21aNPFL067x01;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;740;SU2;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL103p1;21aNPFL103p1;NPFL103;Vyhledávání informací;2;840;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL103x01;21aNPFL103x01;NPFL103;Vyhledávání informací;2;940;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL122x02;21aNPFL122x02;NPFL122;Hluboké zpìtnovazební uèení;2;840;S7;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x01;21aNPFL129x01;NPFL129;Úvod do strojového uèení v Pythonu;2;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x02;21aNPFL129x02;NPFL129;Úvod do strojového uèení v Pythonu;2;640;S4;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003x04;21aNPGR003x04;NPGR003;Základy poèítaèové grafiky;2;940;SW2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPRG013x06;21aNPRG013x06;NPRG013;Programování v jazyce Java;2;540;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG035x06;21aNPRG035x06;NPRG035;Programování v jazyce C#;2;1040;SW2;90;1;;16;;Zikmund Radek, Mgr.
+21aNPRG062p2;21aNPRG062p2;NPRG062;Algoritmizace;2;840;S3;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI035p1;21aNSWI035p1;NSWI035;Principy distribuovaných systémù;2;740;S4;90;1;;14;;Zavoral Filip, RNDr., Ph.D.
+21aNSWI057x01;21aNSWI057x01;NSWI057;Výbìrový semináø z distribuovaných a komponentových systémù I;2;840;S9;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI089p1;21aNSWI089p1;NSWI089;Ochrana informací 1;2;1040;S5;90;1;;16;;Beneš Antonín, RNDr., Ph.D.
+21aNSWI106x01;21aNSWI106x01;NSWI106;Administrace Linuxu;2;640;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI141p2;21aNSWI141p2;NSWI141;Úvod do poèítaèových sítí;2;640;S3;90;1;;15;;Forst Libor, RNDr., Pešková Klára, Mgr., Ph.D.
+21aNSWI164x01;21aNSWI164x01;NSWI164;Modelem øízený vývoj;2;740;SU1;90;1;;15;liche;Bureš Tomáš, prof. RNDr., Ph.D.
+21aNTIN022p1;21aNTIN022p1;NTIN022;Pravdìpodobnostní techniky;2;740;S5;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D.
+21aNTIN043p1;21aNTIN043p1;NTIN043;Formální základy softwarového inženýrství;2;640;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN043x01;21aNTIN043x01;NTIN043;Formální základy softwarového inženýrství;2;740;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061p2;21aNTIN061p2;NTIN061;Algoritmy a datové struktury 2;2;540;S4;90;1;;16;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNTIN061x07;21aNTIN061x07;NTIN061;Algoritmy a datové struktury 2;2;740;S7;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN066x02;21aNTIN066x02;NTIN066;Datové struktury 1;2;940;S6;90;1;;16;;Ondráèek Lukáš, Mgr.
+21aNTIN090p2;21aNTIN090p2;NTIN090;Základy složitosti a vyèíslitelnosti;2;840;S5;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x02;21aNTIN090x02;NTIN090;Základy složitosti a vyèíslitelnosti;2;640;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN102x01;21aNTIN102x01;NTIN102;Semináø z teoretické informatiky;2;690;S1;135;1;;15;;Koucký Michal, prof. Mgr., Ph.D., Sgall Jiøí, prof. RNDr., DrSc., Èepek Ondøej, doc. RNDr., Ph.D., Kolman Petr, doc. Mgr., Ph.D., Feldmann Andreas Emil, Dr., Hubáèek Pavel, Mgr., Ph.D.
+;R110742008;;Sebranka;2;1140;S8;150;1;;15;; 
+;R110754518;;Projekty;2;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+RG110762645;R110762646;;;2;1140;S8;180;;11.1.2022;5;;Bednárek David, RNDr., Ph.D.
+21aNAIL060p1;21aNAIL060p1;NAIL060;Implementace neuronových sítí 1;4;940;S4;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL060x01;21aNAIL060x01;NAIL060;Implementace neuronových sítí 1;4;1040;SW1;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL062x04;21aNAIL062x04;NAIL062;Výroková a predikátová logika;4;540;S6;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL099x01;21aNAIL099x01;NAIL099;Semináø strojového uèení a modelování 1;4;840;S8;90;2;;16;sude;Holeòa Martin, prof. RNDr. Ing., CSc.
+21aNDBI007p1;21aNDBI007p1;NDBI007;Databázové pøístupové metody;4;640;S3;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI007p2;21aNDBI007p2;NDBI007;Databázové pøístupové metody;4;540;S1;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI025x01;21aNDBI025x01;NDBI025;Databázové systémy;4;940;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x07;21aNDBI025x07;NDBI025;Databázové systémy;4;540;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI048p1;21aNDBI048p1;NDBI048;Data Science;4;740;S5;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI048x01;21aNDBI048x01;NDBI048;Data Science;4;840;SW1;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDMI002p2;21aNDMI002p2;NDMI002;Diskrétní matematika;4;840;S3;90;1;;15;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI011x04;21aNDMI011x04;NDMI011;Kombinatorika a grafy 1;4;540;S10;90;1;;16;;Lieskovský Matej, Mgr.
+21aNDMI011x06;21aNDMI011x06;NDMI011;Kombinatorika a grafy 1;4;940;S7;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x08;21aNDMI011x08;NDMI011;Kombinatorika a grafy 1;4;640;S6;90;1;;16;;Èermák Filip, Bc.
+21aNDMI050x01;21aNDMI050x01;NDMI050;Úvod do øešení problémù kombinatorických, mat. i jiných (IPS) I;4;1159;S3;90;1;;15;;Mareš Martin, Mgr., Ph.D., Konèický Václav, Bc.
+21aNDMI098p1;21aNDMI098p1;NDMI098;Algoritmická teorie her;4;840;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNDMI098x01;21aNDMI098x01;NDMI098;Algoritmická teorie her;4;940;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNMAI055p1;21aNMAI055p1;NMAI055;Matematická analýza 2;4;540;S5;90;1;;16;;Pultr Aleš, prof. RNDr., DrSc.
+21aNMAI055x01;21aNMAI055x01;NMAI055;Matematická analýza 2;4;640;S10;90;1;;16;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI055x02;21aNMAI055x02;NMAI055;Matematická analýza 2;4;640;S7;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI055x04;21aNMAI055x04;NMAI055;Matematická analýza 2;4;640;S11;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057x21;21aNMAI057x21;NMAI057;Lineární algebra 1;4;840;S7;90;1;;15;;Èerný Martin, Bc., Zeman Peter, Mgr.
+21aNMAI060p2;21aNMAI060p2;NMAI060;Pravdìpodobnostní metody;4;540;S8;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI165x02;21aNMAI165x02;NMAI165;Praktikum z pravdìpodobnostních metod;4;640;S8;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMIN263p1;21aNMIN263p1;NMIN263;Principy poèítaèù a operaèní systémy;4;1040;S1;90;1;;16;;Jákl Vojtìch, RNDr.
+21aNPFL006p1;21aNPFL006p1;NPFL006;Úvod do formální lingvistiky;4;640;S1;90;1;;16;;Ševèíková Magda, Mgr., Ph.D.
+21aNPFL015x01;21aNPFL015x01;NPFL015;Metody automatizovaného pøekladu;4;840;S10;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL038p1;21aNPFL038p1;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;940;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL038x01;21aNPFL038x01;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;1040;SU2;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL092p1;21aNPFL092p1;NPFL092;Technologie pro NLP;4;740;S421;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL092x01;21aNPFL092x01;NPFL092;Technologie pro NLP;4;640;S421;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL094p1;21aNPFL094p1;NPFL094;Morfologická a syntaktická analýza;4;840;SU1;90;1;;16;;Zeman Daniel, RNDr., Ph.D.
+21aNPFL097p1;21aNPFL097p1;NPFL097;Neøízené strojové uèení v NLP;4;540;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL097x01;21aNPFL097x01;NPFL097;Neøízené strojové uèení v NLP;4;590;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL125x01;21aNPFL125x01;NPFL125;Základy jazykových technologií;4;640;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPGR035x02;21aNPGR035x02;NPGR035;Strojové uèení v poèítaèovém vidìní;4;540;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR039p1;21aNPGR039p1;NPGR039;Úvod do animované tvorby;4;540;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPGR039x01;21aNPGR039x01;NPGR039;Úvod do animované tvorby;4;590;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPRG013x01;21aNPRG013x01;NPRG013;Programování v jazyce Java;4;640;SU2;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG030p2;21aNPRG030p2;NPRG030;Programování 1;4;740;S3;90;1;;15;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035x01;21aNPRG035x01;NPRG035;Programování v jazyce C#;4;840;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x04;21aNPRG035x04;NPRG035;Programování v jazyce C#;4;1040;SW2;90;1;;16;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041p2;21aNPRG041p2;NPRG041;Programování v C++;4;840;S4;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG041x05;21aNPRG041x05;NPRG041;Programování v C++;4;1040;S7;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x06;21aNPRG041x06;NPRG041;Programování v C++;4;740;SW2;90;1;;16;;Faltín Tomáš, Mgr.
+21aNPRG041x08;21aNPRG041x08;NPRG041;Programování v C++;4;540;SW2;90;1;;15;;Šmelko Adam, Mgr.
+21aNPRG059x01;21aNPRG059x01;NPRG059;Praktikum z pokroèilého objektového programování;4;1090;S7;45;1;;16;;Ježek Pavel, Mgr., Ph.D., Hnìtynka Petr, doc. RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNPRG068p1;21aNPRG068p1;NPRG068;Programování v Haskellu;4;740;S4;90;1;;16;;Kratochvíl Miroslav, RNDr., Ph.D.
+21aNSWI015p1;21aNSWI015p1;NSWI015;Unix/Linux Programming in C;4;540;S4;90;1;;16;;Pechanec Jan, Mgr., Kotal Vladimír, Mgr.
+21aNSWI015x01;21aNSWI015x01;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;1;;16;liche;Kotal Vladimír, Mgr.
+21aNSWI015x02;21aNSWI015x02;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;2;;16;sude;Kotal Vladimír, Mgr.
+21aNSWI106x03;21aNSWI106x03;NSWI106;Administrace Linuxu;4;940;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI130x01;21aNSWI130x01;NSWI130;Architektury softwarových systémù;4;840;S6;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI130x02;21aNSWI130x02;NSWI130;Architektury softwarových systémù;4;740;S8;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142x01;21aNSWI142x01;NSWI142;Programování webových aplikací;4;940;SW2;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNSWI142x04;21aNSWI142x04;NSWI142;Programování webových aplikací;4;640;SW2;90;1;;16;;Peška Ladislav, Mgr., Ph.D.
+21aNSWI142x05;21aNSWI142x05;NSWI142;Programování webových aplikací;4;1040;SU1;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x06;21aNSWI142x06;NSWI142;Programování webových aplikací;4;540;SU2;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI162x01;21aNSWI162x01;NSWI162;Sémantika programù;4;740;SU2;90;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI163x01;21aNSWI163x01;NSWI163;Úvod do middleware;4;740;SU2;90;2;;16;sude;Tùma Petr, prof. Ing., Dr.
+21aNTIN022x01;21aNTIN022x01;NTIN022;Pravdìpodobnostní techniky;4;740;S1;90;1;;16;;Koneèný Matìj, RNDr., Bulavka Denys, Mgr.
+21aNTIN046x01;21aNTIN046x01;NTIN046;Rozpoznávání a syntaktická analýza;4;840;S1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc., Plátek Martin, CSc.
+21aNTIN061x05;21aNTIN061x05;NTIN061;Algoritmy a datové struktury 2;4;1040;S6;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x08;21aNTIN061x08;NTIN061;Algoritmy a datové struktury 2;4;940;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066p1;21aNTIN066p1;NTIN066;Datové struktury 1;4;840;S5;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+21aNTIN090p1;21aNTIN090p1;NTIN090;Základy složitosti a vyèíslitelnosti;4;540;S3;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x01;21aNTIN090x01;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x05;21aNTIN090x05;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;2;;16;sude;Bulín Jakub, RNDr., Ph.D.
+;R110741999;;Polední pøednášky KAM;4;740;S6;90;1;;8;; 
+;R110742024;;Polední pøednášky KAM;4;740;S6;90;10;;6;; 
+;R110754520;;Projekty;4;1140;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+;R110761385;;;4;540;S510;180;;30.9.2021;1;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNAIL025x01;21aNAIL025x01;NAIL025;Evoluèní algoritmy 1;5;740;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x03;21aNAIL062x03;NAIL062;Výroková a predikátová logika;5;540;S7;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x08;21aNAIL062x08;NAIL062;Výroková a predikátová logika;5;540;S10;90;1;;16;;Hric Jan, RNDr.
+21aNAIL087p1;21aNAIL087p1;NAIL087;Informatika a kognitivní vìdy 1;5;540;S4;90;1;;16;;Lukavský Jiøí, Mgr., Ph.D., Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL087x01;21aNAIL087x01;NAIL087;Informatika a kognitivní vìdy 1;5;640;S4;90;1;;16;;Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL116p1;21aNAIL116p1;NAIL116;Sociální sítì a jejich analýza;5;640;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL116x01;21aNAIL116x01;NAIL116;Sociální sítì a jejich analýza;5;540;SW1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNCGD002p1;21aNCGD002p1;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD002x01;21aNCGD002x01;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004p1;21aNCGD004p1;NCGD004;Úvod do herního designu;5;640;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004x01;21aNCGD004x01;NCGD004;Úvod do herního designu;5;690;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNDBI025x02;21aNDBI025x02;NDBI025;Databázové systémy;5;540;S11;90;2;;15;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x04;21aNDBI025x04;NDBI025;Databázové systémy;5;740;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI002x14;21aNDMI002x14;NDMI002;Diskrétní matematika;5;640;S6;90;1;;16;;Hons Tomáš, Bc.
+21aNDMI011x02;21aNDMI011x02;NDMI011;Kombinatorika a grafy 1;5;640;S10;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI084p2;21aNDMI084p2;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;5;640;S3;90;1;;16;;Sgall Jiøí, prof. RNDr., DrSc.
+21aNJAZ201x01;21aNJAZ201x01;NJAZ201;Academic Writing for Mathematicians I;5;690;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNJAZ203x01;21aNJAZ203x01;NJAZ203;Academic Writing for Computer Scientists I;5;790;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNMAI062p1;21aNMAI062p1;NMAI062;Algebra 1;5;540;S5;90;1;;16;;Patáková Zuzana, RNDr., Ph.D.
+21aNMAI069x09;21aNMAI069x09;NMAI069;Matematické dovednosti;5;540;S6;90;1;;16;;Kynèl Jan, Mgr., Ph.D.
+21aNPGR003x05;21aNPGR003x05;NPGR003;Základy poèítaèové grafiky;5;540;SU2;90;1;;15;;Tázlar Vojtìch, Mgr.
+21aNPRG013x05;21aNPRG013x05;NPRG013;Programování v jazyce Java;5;740;SU1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG035x02;21aNPRG035x02;NPRG035;Programování v jazyce C#;5;640;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x03;21aNPRG035x03;NPRG035;Programování v jazyce C#;5;540;SW2;90;1;;16;;Pacovský Jan, Mgr.
+21aNPRG041x03;21aNPRG041x03;NPRG041;Programování v C++;5;740;SW2;90;1;;16;;Husák Robert, Mgr. Ing.
+21aNPRG041x07;21aNPRG041x07;NPRG041;Programování v C++;5;640;SU2;90;1;;16;;Drozdík Tomáš, Bc.
+21aNSWI004p1;21aNSWI004p1;NSWI004;Operaèní systémy;5;540;S3;90;1;;16;;Tùma Petr, prof. Ing., Dr.
+21aNSWI004x01;21aNSWI004x01;NSWI004;Operaèní systémy;5;740;S9;90;1;;16;liche;Bulej Lubomír, doc. Ing., Ph.D.
+21aNSWI004x02;21aNSWI004x02;NSWI004;Operaèní systémy;5;740;S9;90;2;;16;sude;Horký Vojtìch, Mgr., Ph.D.
+21aNTIN061x01;21aNTIN061x01;NTIN061;Algoritmy a datové struktury 2;5;640;S7;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN061x03;21aNTIN061x03;NTIN061;Algoritmy a datové struktury 2;5;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x06;21aNTIN061x06;NTIN061;Algoritmy a datové struktury 2;5;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNUIN021p1;21aNUIN021p1;NUIN021;Algoritmy a automaty pro uèitele;5;740;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+21aNUIN021x01;21aNUIN021x01;NUIN021;Algoritmy a automaty pro uèitele;5;840;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+;R110742005;;Experiment vyukove simulace;5;690;SW1;470;1;;13;; 
+21aNAIL002p1;21aNAIL002p1;NAIL002;Neuronové sítì;1;840;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL002x01;21aNAIL002x01;NAIL002;Neuronové sítì;1;740;SU2;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL062x05;21aNAIL062x05;NAIL062;Výroková a predikátová logika;1;740;S11;90;1;;16;;Hric Jan, RNDr.
+21aNAIL062x07;21aNAIL062x07;NAIL062;Výroková a predikátová logika;1;740;S7;90;1;;16;;Pantùèková Kristýna, Mgr.
+21aNAIL069p1;21aNAIL069p1;NAIL069;Umìlá inteligence 1;1;640;S3;90;1;;15;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069p2;21aNAIL069p2;NAIL069;Umìlá inteligence 1;1;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069x01;21aNAIL069x01;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x02;21aNAIL069x02;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL122p1;21aNAIL122p1;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D.
+21aNAIL122x01;21aNAIL122x01;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D.
+21aNDBI025x06;21aNDBI025x06;NDBI025;Databázové systémy;1;1040;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI044p1;21aNDBI044p1;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;940;S4;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDBI044x01;21aNDBI044x01;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;1040;S8;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDMI002x13;21aNDMI002x13;NDMI002;Diskrétní matematika;1;740;S6;90;1;;16;;Skotnica Michael, Mgr.
+21aNDMI084x02;21aNDMI084x02;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;1;940;S7;90;1;;16;liche;Lieskovský Matej, Mgr.
+21aNMAI057x16;21aNMAI057x16;NMAI057;Lineární algebra 1;1;840;S6;90;1;;16;;Hubáèek Pavel, Mgr., Ph.D.
+21aNMAI062x01;21aNMAI062x01;NMAI062;Algebra 1;1;640;S6;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI062x02;21aNMAI062x02;NMAI062;Algebra 1;1;740;S8;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI073x01;21aNMAI073x01;NMAI073;Pravdìpodobnost a statistika 2;1;1040;S6;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNPFL004x01;21aNPFL004x01;NPFL004;Semináø z formální lingvistiky;1;840;S1;100;1;;16;;Hajièová Eva, prof. PhDr., DrSc.
+21aNPFL099p1;21aNPFL099p1;NPFL099;Statistické dialogové systémy;1;940;S10;90;1;;16;;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL099x01;21aNPFL099x01;NPFL099;Statistické dialogové systémy;1;1040;S10;45;1;;15;liche;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL101x01;21aNPFL101x01;NPFL101;Soutìžní strojový pøeklad;1;540;SU1;90;1;;16;;Bojar Ondøej, doc. RNDr., Ph.D.
+21aNPFL122p1;21aNPFL122p1;NPFL122;Hluboké zpìtnovazební uèení;1;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL122x01;21aNPFL122x01;NPFL122;Hluboké zpìtnovazební uèení;1;640;S1;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129p2;21aNPFL129p2;NPFL129;Úvod do strojového uèení v Pythonu;1;740;S5;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003p2;21aNPGR003p2;NPGR003;Základy poèítaèové grafiky;1;540;S4;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR003x01;21aNPGR003x01;NPGR003;Základy poèítaèové grafiky;1;940;SU2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPGR003x03;21aNPGR003x03;NPGR003;Základy poèítaèové grafiky;1;640;SW2;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR035p1;21aNPGR035p1;NPGR035;Strojové uèení v poèítaèovém vidìní;1;640;S9;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR035x01;21aNPGR035x01;NPGR035;Strojové uèení v poèítaèovém vidìní;1;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p2;21aNPRG013p2;NPRG013;Programování v jazyce Java;1;840;S4;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x02;21aNPRG013x02;NPRG013;Programování v jazyce Java;1;940;SW1;90;1;;16;;Khalyeyev Danylo, Mgr.
+21aNPRG014x01;21aNPRG014x01;NPRG014;Koncepty moderních programovacích jazykù;1;840;S3;180;1;;16;;Bureš Tomáš, prof. RNDr., Ph.D., Pech Václav, Mgr.
+21aNPRG030x12;21aNPRG030x12;NPRG030;Programování 1;1;1040;SW2;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035p2;21aNPRG035p2;NPRG035;Programování v jazyce C#;1;740;S9;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x02;21aNPRG041x02;NPRG041;Programování v C++;1;740;SW2;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG056x01;21aNPRG056x01;NPRG056;Programování mobilních zaøízení;1;640;S4;180;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D., Prokop Lukáš
+21aNPRG062x11;21aNPRG062x11;NPRG062;Algoritmizace;1;990;SW2;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG067x01;21aNPRG067x01;NPRG067;Python pro praxi;1;640;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D., Bureš Tomáš, prof. RNDr., Ph.D., Peška Ladislav, Mgr., Ph.D.
+21aNPRG073x01;21aNPRG073x01;NPRG073;Programování v jazyce Rust;1;540;S1;90;1;;15;liche;Vaner Michal, Mgr., Šimerda Pavel
+21aNSWI072p1;21aNSWI072p1;NSWI072;Algoritmy komprese dat;1;640;S5;90;1;;16;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI130p1;21aNSWI130p1;NSWI130;Architektury softwarových systémù;1;1040;S3;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142p1;21aNSWI142p1;NSWI142;Programování webových aplikací;1;740;S3;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI154x03;21aNSWI154x03;NSWI154;Nástroje pro vývoj software;1;840;SU2;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061x04;21aNTIN061x04;NTIN061;Algoritmy a datové struktury 2;1;740;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066x03;21aNTIN066x03;NTIN066;Datové struktury 1;1;940;S6;90;1;;16;;Fink Jiøí, RNDr., Ph.D.
+21aNTIN066x04;21aNTIN066x04;NTIN066;Datové struktury 1;1;640;S7;90;1;;16;;Vu Tung Anh, Mgr.
+21aNTIN087p1;21aNTIN087p1;NTIN087;Textové algoritmy;1;840;S9;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNTIN090x03;21aNTIN090x03;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;2;;16;sude;Majerech Vladan, Mgr., Dr.
+21aNTIN090x04;21aNTIN090x04;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;1;;16;liche;Majerech Vladan, Mgr., Dr.
+21aNUIN018p1;21aNUIN018p1;NUIN018;Vývoj poèítaèových her - pro uèitele;1;640;SW1;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN018x01;21aNUIN018x01;NUIN018;Vývoj poèítaèových her - pro uèitele;1;740;SW1;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN019p1;21aNUIN019p1;NUIN019;Základy tvorby webu;1;790;SW1;45;1;;16;;Pešková Klára, Mgr., Ph.D.
+21aNUIN019x01;21aNUIN019x01;NUIN019;Základy tvorby webu;1;840;SW1;90;1;;16;;Pešková Klára, Mgr., Ph.D.
+;R110742003;;Schuze UFAL;1;790;S1;50;1;;13;; 
+;R110742007;;Gaudeamus Pikurus;1;1080;S1;180;1;;14;; 
+21aNAIL002p1;21aNAIL002p1b;NAIL002;Neuronové sítì;3;840;S5;90;1;;15;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL004x01;21aNAIL004x01;NAIL004;Semináø z umìlé inteligence 1;3;640;S8;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL025x02;21aNAIL025x02;NAIL025;Evoluèní algoritmy 1;3;1040;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL028p1;21aNAIL028p1;NAIL028;Úvod do robotiky;3;640;S5;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL028x01;21aNAIL028x01;NAIL028;Úvod do robotiky;3;840;SW2;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL062x01;21aNAIL062x01;NAIL062;Výroková a predikátová logika;3;840;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x02;21aNAIL062x02;NAIL062;Výroková a predikátová logika;3;640;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x06;21aNAIL062x06;NAIL062;Výroková a predikátová logika;3;940;S1;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNCGD008x01;21aNCGD008x01;NCGD008;Praktikum z herního vývoje s øízeným kódem;3;540;SW1;90;1;;15;;Gemrot Jakub, Mgr., Ph.D., Vlachovský Karel, Bc.
+21aNDBI007x01;21aNDBI007x01;NDBI007;Databázové pøístupové metody;3;740;S1;90;1;;15;liche;Koupil Pavel, Ing.
+21aNDBI007x02;21aNDBI007x02;NDBI007;Databázové pøístupové metody;3;740;S1;90;2;;15;sude;Koupil Pavel, Ing.
+21aNDBI025x05;21aNDBI025x05;NDBI025;Databázové systémy;3;840;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x08;21aNDBI025x08;NDBI025;Databázové systémy;3;640;S7;90;2;;15;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI009p1;21aNDMI009p1;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;940;S9;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D., Kynèl Jan, Mgr., Ph.D.
+21aNDMI009x01;21aNDMI009x01;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;1040;S9;90;1;;16;;Kynèl Jan, Mgr., Ph.D., Opler Michal, Mgr.
+21aNDMI011p2;21aNDMI011p2;NDMI011;Kombinatorika a grafy 1;3;740;S9;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x01;21aNDMI011x01;NDMI011;Kombinatorika a grafy 1;3;1040;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNDMI011x03;21aNDMI011x03;NDMI011;Kombinatorika a grafy 1;3;740;S11;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI011x05;21aNDMI011x05;NDMI011;Kombinatorika a grafy 1;3;940;S6;90;1;;16;;Poljak Marian, Bc.
+21aNDMI011x07;21aNDMI011x07;NDMI011;Kombinatorika a grafy 1;3;840;S10;90;1;;15;;Penev Irena, Dr.
+21aNDMI084p1;21aNDMI084p1;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;3;840;S9;90;1;;16;;Kolman Petr, doc. Mgr., Ph.D.
+21aNMAI055x03;21aNMAI055x03;NMAI055;Matematická analýza 2;3;640;S10;90;1;;15;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI060p1;21aNMAI060p1;NMAI060;Pravdìpodobnostní metody;3;540;S9;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI062p2;21aNMAI062p2;NMAI062;Algebra 1;3;640;S4;90;1;;16;;Kompatscher Michael, Ph.D.
+21aNMAI073p1;21aNMAI073p1;NMAI073;Pravdìpodobnost a statistika 2;3;740;S4;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNMAI165x01;21aNMAI165x01;NMAI165;Praktikum z pravdìpodobnostních metod;3;640;S9;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNOPT042x01;21aNOPT042x01;NOPT042;Programování s omezujícími podmínkami;3;740;SU1;90;1;;15;;Bulín Jakub, RNDr., Ph.D.
+21aNPFL063p1;21aNPFL063p1;NPFL063;Úvod do obecné lingvistiky;3;940;S5;90;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL063x01;21aNPFL063x01;NPFL063;Úvod do obecné lingvistiky;3;1040;S8;45;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL070p1;21aNPFL070p1;NPFL070;Zdroje jazykových dat;3;640;SW1;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL070x01;21aNPFL070x01;NPFL070;Zdroje jazykových dat;3;690;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL100p1;21aNPFL100p1;NPFL100;Variabilita jazykù v èase a prostoru;3;840;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL100x01;21aNPFL100x01;NPFL100;Variabilita jazykù v èase a prostoru;3;890;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL121x01;21aNPFL121x01;NPFL121;Vybrané kapitoly z èeské gramatiky;3;540;S11;90;1;;16;;Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL132p1;21aNPFL132p1;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1040;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL132x01;21aNPFL132x01;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1140;SU1;45;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPGR003p1;21aNPGR003p1;NPGR003;Základy poèítaèové grafiky;3;640;S3;90;1;;15;;Pelikán Josef, RNDr.
+21aNPGR003x02;21aNPGR003x02;NPGR003;Základy poèítaèové grafiky;3;840;SU2;90;1;;16;;Pelikán Josef, RNDr.
+21aNPGR005x01;21aNPGR005x01;NPGR005;Semináø z poèítaèové grafiky a vidìní;3;840;S11;90;1;;16;;Wilkie Alexander, doc., Dr., Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR025p1;21aNPGR025p1;NPGR025;Introduction to Colour Science;3;940;S3;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR037x01;21aNPGR037x01;NPGR037;Praktikum z Matlabu;3;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p3;21aNPRG013p3;NPRG013;Programování v jazyce Java;3;540;S3;90;1;;15;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x04;21aNPRG013x04;NPRG013;Programování v jazyce Java;3;940;SU2;90;1;;16;;Dort Vlastimil, Mgr.
+21aNPRG035x08;21aNPRG035x08;NPRG035;Programování v jazyce C#;3;640;SW2;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x01;21aNPRG041x01;NPRG041;Programování v C++;3;740;SU2;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x04;21aNPRG041x04;NPRG041;Programování v C++;3;740;SW2;90;1;;16;;Svoboda Martin, RNDr., Ph.D.
+21aNPRG041x09;21aNPRG041x09;NPRG041;Programování v C++;3;940;SW2;90;1;;15;;Svoboda Martin, RNDr., Ph.D.
+21aNSWI098p1;21aNSWI098p1;NSWI098;Principy pøekladaèù;3;740;S3;90;1;;16;;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI098x01;21aNSWI098x01;NSWI098;Principy pøekladaèù;3;840;S1;90;2;;15;sude;Bednárek David, RNDr., Ph.D.
+21aNSWI098x02;21aNSWI098x02;NSWI098;Principy pøekladaèù;3;840;S1;90;1;;15;liche;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI101p1;21aNSWI101p1;NSWI101;Modely a verifikace chování systémù;3;640;S1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI101x01;21aNSWI101x01;NSWI101;Modely a verifikace chování systémù;3;740;S8;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI106p1;21aNSWI106p1;NSWI106;Administrace Linuxu;3;840;S3;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI133x01;21aNSWI133x01;NSWI133;Firemní semináøe;3;1040;S5;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI142p2;21aNSWI142p2;NSWI142;Programování webových aplikací;3;540;S4;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x02;21aNSWI142x02;NSWI142;Programování webových aplikací;3;640;SU2;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI144p1;21aNSWI144p1;NSWI144;Data na Webu;3;540;S5;90;1;;16;;Klímek Jakub, RNDr., Ph.D.
+21aNSWI144x01;21aNSWI144x01;NSWI144;Data na Webu;3;940;SW1;90;2;;13;sude;Klímek Jakub, RNDr., Ph.D.
+21aNSWI150p1;21aNSWI150p1;NSWI150;Virtualizace a cloud computing;3;940;S4;90;1;;16;;Yaghob Jakub, RNDr., Ph.D., Bednárek David, RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNSWI154x01;21aNSWI154x01;NSWI154;Nástroje pro vývoj software;3;640;SU1;90;1;;15;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI166p1;21aNSWI166p1;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;840;S4;90;2;;16;;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNSWI166x01;21aNSWI166x01;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;940;S10;90;1;;16;liche;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNTIN061x02;21aNTIN061x02;NTIN061;Algoritmy a datové struktury 2;3;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNTIN061x09;21aNTIN061x09;NTIN061;Algoritmy a datové struktury 2;3;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN066x01;21aNTIN066x01;NTIN066;Datové struktury 1;3;940;S7;90;1;;16;;Mièka Ondøej, Mgr.
+21aNTIN066x05;21aNTIN066x05;NTIN066;Datové struktury 1;3;640;S11;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+;R110754519;;Projekty;3;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+21aNAIL025p1;21aNAIL025p1;NAIL025;Evoluèní algoritmy 1;2;940;S5;90;1;;15;;Neruda Roman, Mgr., CSc.
+21aNAIL025x03;21aNAIL025x03;NAIL025;Evoluèní algoritmy 1;2;840;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062p2;21aNAIL062p2;NAIL062;Výroková a predikátová logika;2;640;S9;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL069x03;21aNAIL069x03;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x04;21aNAIL069x04;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL104p1;21aNAIL104p1;NAIL104;Pravdìpodobnostní grafické modely;2;640;S5;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNCGD003p1;21aNCGD003p1;NCGD003;Programování herních mechanik;2;540;SW2;45;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD003x01;21aNCGD003x01;NCGD003;Programování herních mechanik;2;590;SW2;90;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD009p1;21aNCGD009p1;NCGD009;Adaptivní hudba a interaktivní zvuk;2;840;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNCGD009x01;21aNCGD009x01;NCGD009;Adaptivní hudba a interaktivní zvuk;2;940;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNDBI025p2;21aNDBI025p2;NDBI025;Databázové systémy;2;840;S4;90;1;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x03;21aNDBI025x03;NDBI025;Databázové systémy;2;1040;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI034p1;21aNDBI034p1;NDBI034;Vyhledávání multimediálního obsahu na webu;2;740;S9;90;1;;15;;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDBI034x01;21aNDBI034x01;NDBI034;Vyhledávání multimediálního obsahu na webu;2;840;S8;90;2;;13;sude;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDIN011p1;21aNDIN011p1;NDIN011;Aplikaèní software;2;1040;SW1;90;1;;16;;Forstová Lenka, Mgr.
+21aNDIN011x01;21aNDIN011x01;NDIN011;Aplikaèní software;2;1140;SW1;45;1;;16;;Forstová Lenka, Mgr.
+21aNDMI002x11;21aNDMI002x11;NDMI002;Diskrétní matematika;2;540;S6;90;1;;16;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI002x12;21aNDMI002x12;NDMI002;Diskrétní matematika;2;540;S7;90;1;;16;;Mikšaník David
+21aNDMI002x15;21aNDMI002x15;NDMI002;Diskrétní matematika;2;540;S8;90;1;;16;;Chmel Petr, Bc.
+21aNDMI028p1;21aNDMI028p1;NDMI028;Aplikace lineární algebry v kombinatorice;2;540;S9;90;1;;16;;Kratochvíl Jan, prof. RNDr., CSc.
+21aNDMI028x01;21aNDMI028x01;NDMI028;Aplikace lineární algebry v kombinatorice;2;640;S8;90;1;;16;;Bok Jan, Mgr.
+21aNDMI084x01;21aNDMI084x01;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;2;940;S7;90;2;;16;sude;Lieskovský Matej, Mgr.
+21aNMAI055p2;21aNMAI055p2;NMAI055;Matematická analýza 2;2;940;S9;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057p2;21aNMAI057p2;NMAI057;Lineární algebra 1;2;740;S3;90;1;;15;;Fiala Jiøí, doc. RNDr., Ph.D.
+21aNMAI062x03;21aNMAI062x03;NMAI062;Algebra 1;2;840;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI062x04;21aNMAI062x04;NMAI062;Algebra 1;2;940;S10;90;1;;16;;Berg Kevin
+21aNOPT042p1;21aNOPT042p1;NOPT042;Programování s omezujícími podmínkami;2;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNPFL012p1;21aNPFL012p1;NPFL012;Úvod do poèítaèové lingvistiky;2;1040;S3;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL012p2;21aNPFL012p2;NPFL012;Úvod do poèítaèové lingvistiky;2;740;S6;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL067p1;21aNPFL067p1;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;540;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL067x01;21aNPFL067x01;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;740;SU2;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL103p1;21aNPFL103p1;NPFL103;Vyhledávání informací;2;840;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL103x01;21aNPFL103x01;NPFL103;Vyhledávání informací;2;940;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL122x02;21aNPFL122x02;NPFL122;Hluboké zpìtnovazební uèení;2;840;S7;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x01;21aNPFL129x01;NPFL129;Úvod do strojového uèení v Pythonu;2;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x02;21aNPFL129x02;NPFL129;Úvod do strojového uèení v Pythonu;2;640;S4;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003x04;21aNPGR003x04;NPGR003;Základy poèítaèové grafiky;2;940;SW2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPRG013x06;21aNPRG013x06;NPRG013;Programování v jazyce Java;2;540;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG035x06;21aNPRG035x06;NPRG035;Programování v jazyce C#;2;1040;SW2;90;1;;16;;Zikmund Radek, Mgr.
+21aNPRG062p2;21aNPRG062p2;NPRG062;Algoritmizace;2;840;S3;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI035p1;21aNSWI035p1;NSWI035;Principy distribuovaných systémù;2;740;S4;90;1;;14;;Zavoral Filip, RNDr., Ph.D.
+21aNSWI057x01;21aNSWI057x01;NSWI057;Výbìrový semináø z distribuovaných a komponentových systémù I;2;840;S9;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI089p1;21aNSWI089p1;NSWI089;Ochrana informací 1;2;1040;S5;90;1;;16;;Beneš Antonín, RNDr., Ph.D.
+21aNSWI106x01;21aNSWI106x01;NSWI106;Administrace Linuxu;2;640;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI141p2;21aNSWI141p2;NSWI141;Úvod do poèítaèových sítí;2;640;S3;90;1;;15;;Forst Libor, RNDr., Pešková Klára, Mgr., Ph.D.
+21aNSWI164x01;21aNSWI164x01;NSWI164;Modelem øízený vývoj;2;740;SU1;90;1;;15;liche;Bureš Tomáš, prof. RNDr., Ph.D.
+21aNTIN022p1;21aNTIN022p1;NTIN022;Pravdìpodobnostní techniky;2;740;S5;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D.
+21aNTIN043p1;21aNTIN043p1;NTIN043;Formální základy softwarového inženýrství;2;640;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN043x01;21aNTIN043x01;NTIN043;Formální základy softwarového inženýrství;2;740;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061p2;21aNTIN061p2;NTIN061;Algoritmy a datové struktury 2;2;540;S4;90;1;;16;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNTIN061x07;21aNTIN061x07;NTIN061;Algoritmy a datové struktury 2;2;740;S7;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN066x02;21aNTIN066x02;NTIN066;Datové struktury 1;2;940;S6;90;1;;16;;Ondráèek Lukáš, Mgr.
+21aNTIN090p2;21aNTIN090p2;NTIN090;Základy složitosti a vyèíslitelnosti;2;840;S5;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x02;21aNTIN090x02;NTIN090;Základy složitosti a vyèíslitelnosti;2;640;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN102x01;21aNTIN102x01;NTIN102;Semináø z teoretické informatiky;2;690;S1;135;1;;15;;Koucký Michal, prof. Mgr., Ph.D., Sgall Jiøí, prof. RNDr., DrSc., Èepek Ondøej, doc. RNDr., Ph.D., Kolman Petr, doc. Mgr., Ph.D., Feldmann Andreas Emil, Dr., Hubáèek Pavel, Mgr., Ph.D.
+;R110742008;;Sebranka;2;1140;S8;150;1;;15;; 
+;R110754518;;Projekty;2;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+RG110762645;R110762646;;;2;1140;S8;180;;11.1.2022;5;;Bednárek David, RNDr., Ph.D.
+21aNAIL060p1;21aNAIL060p1;NAIL060;Implementace neuronových sítí 1;4;940;S4;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL060x01;21aNAIL060x01;NAIL060;Implementace neuronových sítí 1;4;1040;SW1;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL062x04;21aNAIL062x04;NAIL062;Výroková a predikátová logika;4;540;S6;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL099x01;21aNAIL099x01;NAIL099;Semináø strojového uèení a modelování 1;4;840;S8;90;2;;16;sude;Holeòa Martin, prof. RNDr. Ing., CSc.
+21aNDBI007p1;21aNDBI007p1;NDBI007;Databázové pøístupové metody;4;640;S3;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI007p2;21aNDBI007p2;NDBI007;Databázové pøístupové metody;4;540;S1;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI025x01;21aNDBI025x01;NDBI025;Databázové systémy;4;940;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x07;21aNDBI025x07;NDBI025;Databázové systémy;4;540;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI048p1;21aNDBI048p1;NDBI048;Data Science;4;740;S5;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI048x01;21aNDBI048x01;NDBI048;Data Science;4;840;SW1;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDMI002p2;21aNDMI002p2;NDMI002;Diskrétní matematika;4;840;S3;90;1;;15;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI011x04;21aNDMI011x04;NDMI011;Kombinatorika a grafy 1;4;540;S10;90;1;;16;;Lieskovský Matej, Mgr.
+21aNDMI011x06;21aNDMI011x06;NDMI011;Kombinatorika a grafy 1;4;940;S7;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x08;21aNDMI011x08;NDMI011;Kombinatorika a grafy 1;4;640;S6;90;1;;16;;Èermák Filip, Bc.
+21aNDMI050x01;21aNDMI050x01;NDMI050;Úvod do øešení problémù kombinatorických, mat. i jiných (IPS) I;4;1159;S3;90;1;;15;;Mareš Martin, Mgr., Ph.D., Konèický Václav, Bc.
+21aNDMI098p1;21aNDMI098p1;NDMI098;Algoritmická teorie her;4;840;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNDMI098x01;21aNDMI098x01;NDMI098;Algoritmická teorie her;4;940;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNMAI055p1;21aNMAI055p1;NMAI055;Matematická analýza 2;4;540;S5;90;1;;16;;Pultr Aleš, prof. RNDr., DrSc.
+21aNMAI055x01;21aNMAI055x01;NMAI055;Matematická analýza 2;4;640;S10;90;1;;16;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI055x02;21aNMAI055x02;NMAI055;Matematická analýza 2;4;640;S7;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI055x04;21aNMAI055x04;NMAI055;Matematická analýza 2;4;640;S11;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057x21;21aNMAI057x21;NMAI057;Lineární algebra 1;4;840;S7;90;1;;15;;Èerný Martin, Bc., Zeman Peter, Mgr.
+21aNMAI060p2;21aNMAI060p2;NMAI060;Pravdìpodobnostní metody;4;540;S8;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI165x02;21aNMAI165x02;NMAI165;Praktikum z pravdìpodobnostních metod;4;640;S8;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMIN263p1;21aNMIN263p1;NMIN263;Principy poèítaèù a operaèní systémy;4;1040;S1;90;1;;16;;Jákl Vojtìch, RNDr.
+21aNPFL006p1;21aNPFL006p1;NPFL006;Úvod do formální lingvistiky;4;640;S1;90;1;;16;;Ševèíková Magda, Mgr., Ph.D.
+21aNPFL015x01;21aNPFL015x01;NPFL015;Metody automatizovaného pøekladu;4;840;S10;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL038p1;21aNPFL038p1;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;940;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL038x01;21aNPFL038x01;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;1040;SU2;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL092p1;21aNPFL092p1;NPFL092;Technologie pro NLP;4;740;S421;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL092x01;21aNPFL092x01;NPFL092;Technologie pro NLP;4;640;S421;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL094p1;21aNPFL094p1;NPFL094;Morfologická a syntaktická analýza;4;840;SU1;90;1;;16;;Zeman Daniel, RNDr., Ph.D.
+21aNPFL097p1;21aNPFL097p1;NPFL097;Neøízené strojové uèení v NLP;4;540;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL097x01;21aNPFL097x01;NPFL097;Neøízené strojové uèení v NLP;4;590;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL125x01;21aNPFL125x01;NPFL125;Základy jazykových technologií;4;640;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPGR035x02;21aNPGR035x02;NPGR035;Strojové uèení v poèítaèovém vidìní;4;540;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR039p1;21aNPGR039p1;NPGR039;Úvod do animované tvorby;4;540;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPGR039x01;21aNPGR039x01;NPGR039;Úvod do animované tvorby;4;590;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPRG013x01;21aNPRG013x01;NPRG013;Programování v jazyce Java;4;640;SU2;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG030p2;21aNPRG030p2;NPRG030;Programování 1;4;740;S3;90;1;;15;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035x01;21aNPRG035x01;NPRG035;Programování v jazyce C#;4;840;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x04;21aNPRG035x04;NPRG035;Programování v jazyce C#;4;1040;SW2;90;1;;16;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041p2;21aNPRG041p2;NPRG041;Programování v C++;4;840;S4;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG041x05;21aNPRG041x05;NPRG041;Programování v C++;4;1040;S7;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x06;21aNPRG041x06;NPRG041;Programování v C++;4;740;SW2;90;1;;16;;Faltín Tomáš, Mgr.
+21aNPRG041x08;21aNPRG041x08;NPRG041;Programování v C++;4;540;SW2;90;1;;15;;Šmelko Adam, Mgr.
+21aNPRG059x01;21aNPRG059x01;NPRG059;Praktikum z pokroèilého objektového programování;4;1090;S7;45;1;;16;;Ježek Pavel, Mgr., Ph.D., Hnìtynka Petr, doc. RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNPRG068p1;21aNPRG068p1;NPRG068;Programování v Haskellu;4;740;S4;90;1;;16;;Kratochvíl Miroslav, RNDr., Ph.D.
+21aNSWI015p1;21aNSWI015p1;NSWI015;Unix/Linux Programming in C;4;540;S4;90;1;;16;;Pechanec Jan, Mgr., Kotal Vladimír, Mgr.
+21aNSWI015x01;21aNSWI015x01;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;1;;16;liche;Kotal Vladimír, Mgr.
+21aNSWI015x02;21aNSWI015x02;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;2;;16;sude;Kotal Vladimír, Mgr.
+21aNSWI106x03;21aNSWI106x03;NSWI106;Administrace Linuxu;4;940;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI130x01;21aNSWI130x01;NSWI130;Architektury softwarových systémù;4;840;S6;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI130x02;21aNSWI130x02;NSWI130;Architektury softwarových systémù;4;740;S8;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142x01;21aNSWI142x01;NSWI142;Programování webových aplikací;4;940;SW2;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNSWI142x04;21aNSWI142x04;NSWI142;Programování webových aplikací;4;640;SW2;90;1;;16;;Peška Ladislav, Mgr., Ph.D.
+21aNSWI142x05;21aNSWI142x05;NSWI142;Programování webových aplikací;4;1040;SU1;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x06;21aNSWI142x06;NSWI142;Programování webových aplikací;4;540;SU2;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI162x01;21aNSWI162x01;NSWI162;Sémantika programù;4;740;SU2;90;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI163x01;21aNSWI163x01;NSWI163;Úvod do middleware;4;740;SU2;90;2;;16;sude;Tùma Petr, prof. Ing., Dr.
+21aNTIN022x01;21aNTIN022x01;NTIN022;Pravdìpodobnostní techniky;4;740;S1;90;1;;16;;Koneèný Matìj, RNDr., Bulavka Denys, Mgr.
+21aNTIN046x01;21aNTIN046x01;NTIN046;Rozpoznávání a syntaktická analýza;4;840;S1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc., Plátek Martin, CSc.
+21aNTIN061x05;21aNTIN061x05;NTIN061;Algoritmy a datové struktury 2;4;1040;S6;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x08;21aNTIN061x08;NTIN061;Algoritmy a datové struktury 2;4;940;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066p1;21aNTIN066p1;NTIN066;Datové struktury 1;4;840;S5;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+21aNTIN090p1;21aNTIN090p1;NTIN090;Základy složitosti a vyèíslitelnosti;4;540;S3;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x01;21aNTIN090x01;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x05;21aNTIN090x05;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;2;;16;sude;Bulín Jakub, RNDr., Ph.D.
+;R110741999;;Polední pøednášky KAM;4;740;S6;90;1;;8;; 
+;R110742024;;Polední pøednášky KAM;4;740;S6;90;10;;6;; 
+;R110754520;;Projekty;4;1140;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+;R110761385;;;4;540;S510;180;;30.9.2021;1;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNAIL025x01;21aNAIL025x01;NAIL025;Evoluèní algoritmy 1;5;740;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x03;21aNAIL062x03;NAIL062;Výroková a predikátová logika;5;540;S7;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x08;21aNAIL062x08;NAIL062;Výroková a predikátová logika;5;540;S10;90;1;;16;;Hric Jan, RNDr.
+21aNAIL087p1;21aNAIL087p1;NAIL087;Informatika a kognitivní vìdy 1;5;540;S4;90;1;;16;;Lukavský Jiøí, Mgr., Ph.D., Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL087x01;21aNAIL087x01;NAIL087;Informatika a kognitivní vìdy 1;5;640;S4;90;1;;16;;Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL116p1;21aNAIL116p1;NAIL116;Sociální sítì a jejich analýza;5;640;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL116x01;21aNAIL116x01;NAIL116;Sociální sítì a jejich analýza;5;540;SW1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNCGD002p1;21aNCGD002p1;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD002x01;21aNCGD002x01;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004p1;21aNCGD004p1;NCGD004;Úvod do herního designu;5;640;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004x01;21aNCGD004x01;NCGD004;Úvod do herního designu;5;690;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNDBI025x02;21aNDBI025x02;NDBI025;Databázové systémy;5;540;S11;90;2;;15;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x04;21aNDBI025x04;NDBI025;Databázové systémy;5;740;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI002x14;21aNDMI002x14;NDMI002;Diskrétní matematika;5;640;S6;90;1;;16;;Hons Tomáš, Bc.
+21aNDMI011x02;21aNDMI011x02;NDMI011;Kombinatorika a grafy 1;5;640;S10;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI084p2;21aNDMI084p2;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;5;640;S3;90;1;;16;;Sgall Jiøí, prof. RNDr., DrSc.
+21aNJAZ201x01;21aNJAZ201x01;NJAZ201;Academic Writing for Mathematicians I;5;690;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNJAZ203x01;21aNJAZ203x01;NJAZ203;Academic Writing for Computer Scientists I;5;790;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNMAI062p1;21aNMAI062p1;NMAI062;Algebra 1;5;540;S5;90;1;;16;;Patáková Zuzana, RNDr., Ph.D.
+21aNMAI069x09;21aNMAI069x09;NMAI069;Matematické dovednosti;5;540;S6;90;1;;16;;Kynèl Jan, Mgr., Ph.D.
+21aNPGR003x05;21aNPGR003x05;NPGR003;Základy poèítaèové grafiky;5;540;SU2;90;1;;15;;Tázlar Vojtìch, Mgr.
+21aNPRG013x05;21aNPRG013x05;NPRG013;Programování v jazyce Java;5;740;SU1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG035x02;21aNPRG035x02;NPRG035;Programování v jazyce C#;5;640;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x03;21aNPRG035x03;NPRG035;Programování v jazyce C#;5;540;SW2;90;1;;16;;Pacovský Jan, Mgr.
+21aNPRG041x03;21aNPRG041x03;NPRG041;Programování v C++;5;740;SW2;90;1;;16;;Husák Robert, Mgr. Ing.
+21aNPRG041x07;21aNPRG041x07;NPRG041;Programování v C++;5;640;SU2;90;1;;16;;Drozdík Tomáš, Bc.
+21aNSWI004p1;21aNSWI004p1;NSWI004;Operaèní systémy;5;540;S3;90;1;;16;;Tùma Petr, prof. Ing., Dr.
+21aNSWI004x01;21aNSWI004x01;NSWI004;Operaèní systémy;5;740;S9;90;1;;16;liche;Bulej Lubomír, doc. Ing., Ph.D.
+21aNSWI004x02;21aNSWI004x02;NSWI004;Operaèní systémy;5;740;S9;90;2;;16;sude;Horký Vojtìch, Mgr., Ph.D.
+21aNTIN061x01;21aNTIN061x01;NTIN061;Algoritmy a datové struktury 2;5;640;S7;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN061x03;21aNTIN061x03;NTIN061;Algoritmy a datové struktury 2;5;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x06;21aNTIN061x06;NTIN061;Algoritmy a datové struktury 2;5;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNUIN021p1;21aNUIN021p1;NUIN021;Algoritmy a automaty pro uèitele;5;740;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+21aNUIN021x01;21aNUIN021x01;NUIN021;Algoritmy a automaty pro uèitele;5;840;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+;R110742005;;Experiment vyukove simulace;5;690;SW1;470;1;;13;; 
+21aNAIL002p1;21aNAIL002p1;NAIL002;Neuronové sítì;1;840;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL002x01;21aNAIL002x01;NAIL002;Neuronové sítì;1;740;SU2;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL062x05;21aNAIL062x05;NAIL062;Výroková a predikátová logika;1;740;S11;90;1;;16;;Hric Jan, RNDr.
+21aNAIL062x07;21aNAIL062x07;NAIL062;Výroková a predikátová logika;1;740;S7;90;1;;16;;Pantùèková Kristýna, Mgr.
+21aNAIL069p1;21aNAIL069p1;NAIL069;Umìlá inteligence 1;1;640;S3;90;1;;15;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069p2;21aNAIL069p2;NAIL069;Umìlá inteligence 1;1;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069x01;21aNAIL069x01;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x02;21aNAIL069x02;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL122p1;21aNAIL122p1;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D.
+21aNAIL122x01;21aNAIL122x01;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D.
+21aNDBI025x06;21aNDBI025x06;NDBI025;Databázové systémy;1;1040;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI044p1;21aNDBI044p1;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;940;S4;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDBI044x01;21aNDBI044x01;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;1040;S8;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDMI002x13;21aNDMI002x13;NDMI002;Diskrétní matematika;1;740;S6;90;1;;16;;Skotnica Michael, Mgr.
+21aNDMI084x02;21aNDMI084x02;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;1;940;S7;90;1;;16;liche;Lieskovský Matej, Mgr.
+21aNMAI057x16;21aNMAI057x16;NMAI057;Lineární algebra 1;1;840;S6;90;1;;16;;Hubáèek Pavel, Mgr., Ph.D.
+21aNMAI062x01;21aNMAI062x01;NMAI062;Algebra 1;1;640;S6;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI062x02;21aNMAI062x02;NMAI062;Algebra 1;1;740;S8;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI073x01;21aNMAI073x01;NMAI073;Pravdìpodobnost a statistika 2;1;1040;S6;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNPFL004x01;21aNPFL004x01;NPFL004;Semináø z formální lingvistiky;1;840;S1;100;1;;16;;Hajièová Eva, prof. PhDr., DrSc.
+21aNPFL099p1;21aNPFL099p1;NPFL099;Statistické dialogové systémy;1;940;S10;90;1;;16;;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL099x01;21aNPFL099x01;NPFL099;Statistické dialogové systémy;1;1040;S10;45;1;;15;liche;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL101x01;21aNPFL101x01;NPFL101;Soutìžní strojový pøeklad;1;540;SU1;90;1;;16;;Bojar Ondøej, doc. RNDr., Ph.D.
+21aNPFL122p1;21aNPFL122p1;NPFL122;Hluboké zpìtnovazební uèení;1;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL122x01;21aNPFL122x01;NPFL122;Hluboké zpìtnovazební uèení;1;640;S1;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129p2;21aNPFL129p2;NPFL129;Úvod do strojového uèení v Pythonu;1;740;S5;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003p2;21aNPGR003p2;NPGR003;Základy poèítaèové grafiky;1;540;S4;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR003x01;21aNPGR003x01;NPGR003;Základy poèítaèové grafiky;1;940;SU2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPGR003x03;21aNPGR003x03;NPGR003;Základy poèítaèové grafiky;1;640;SW2;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR035p1;21aNPGR035p1;NPGR035;Strojové uèení v poèítaèovém vidìní;1;640;S9;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR035x01;21aNPGR035x01;NPGR035;Strojové uèení v poèítaèovém vidìní;1;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p2;21aNPRG013p2;NPRG013;Programování v jazyce Java;1;840;S4;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x02;21aNPRG013x02;NPRG013;Programování v jazyce Java;1;940;SW1;90;1;;16;;Khalyeyev Danylo, Mgr.
+21aNPRG014x01;21aNPRG014x01;NPRG014;Koncepty moderních programovacích jazykù;1;840;S3;180;1;;16;;Bureš Tomáš, prof. RNDr., Ph.D., Pech Václav, Mgr.
+21aNPRG030x12;21aNPRG030x12;NPRG030;Programování 1;1;1040;SW2;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035p2;21aNPRG035p2;NPRG035;Programování v jazyce C#;1;740;S9;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x02;21aNPRG041x02;NPRG041;Programování v C++;1;740;SW2;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG056x01;21aNPRG056x01;NPRG056;Programování mobilních zaøízení;1;640;S4;180;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D., Prokop Lukáš
+21aNPRG062x11;21aNPRG062x11;NPRG062;Algoritmizace;1;990;SW2;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG067x01;21aNPRG067x01;NPRG067;Python pro praxi;1;640;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D., Bureš Tomáš, prof. RNDr., Ph.D., Peška Ladislav, Mgr., Ph.D.
+21aNPRG073x01;21aNPRG073x01;NPRG073;Programování v jazyce Rust;1;540;S1;90;1;;15;liche;Vaner Michal, Mgr., Šimerda Pavel
+21aNSWI072p1;21aNSWI072p1;NSWI072;Algoritmy komprese dat;1;640;S5;90;1;;16;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI130p1;21aNSWI130p1;NSWI130;Architektury softwarových systémù;1;1040;S3;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142p1;21aNSWI142p1;NSWI142;Programování webových aplikací;1;740;S3;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI154x03;21aNSWI154x03;NSWI154;Nástroje pro vývoj software;1;840;SU2;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061x04;21aNTIN061x04;NTIN061;Algoritmy a datové struktury 2;1;740;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066x03;21aNTIN066x03;NTIN066;Datové struktury 1;1;940;S6;90;1;;16;;Fink Jiøí, RNDr., Ph.D.
+21aNTIN066x04;21aNTIN066x04;NTIN066;Datové struktury 1;1;640;S7;90;1;;16;;Vu Tung Anh, Mgr.
+21aNTIN087p1;21aNTIN087p1;NTIN087;Textové algoritmy;1;840;S9;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNTIN090x03;21aNTIN090x03;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;2;;16;sude;Majerech Vladan, Mgr., Dr.
+21aNTIN090x04;21aNTIN090x04;NTIN090;Základy složitosti a vyèíslitelnosti;1;940;S8;90;1;;16;liche;Majerech Vladan, Mgr., Dr.
+21aNUIN018p1;21aNUIN018p1;NUIN018;Vývoj poèítaèových her - pro uèitele;1;640;SW1;90;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN018x01;21aNUIN018x01;NUIN018;Vývoj poèítaèových her - pro uèitele;1;740;SW1;45;1;;16;;Holan Tomáš, RNDr., Ph.D.
+21aNUIN019p1;21aNUIN019p1;NUIN019;Základy tvorby webu;1;790;SW1;45;1;;16;;Pešková Klára, Mgr., Ph.D.
+21aNUIN019x01;21aNUIN019x01;NUIN019;Základy tvorby webu;1;840;SW1;90;1;;16;;Pešková Klára, Mgr., Ph.D.
+;R110742003;;Schuze UFAL;1;790;S1;50;1;;13;; 
+;R110742007;;Gaudeamus Pikurus;1;1080;S1;180;1;;14;; 
+21aNAIL002p1;21aNAIL002p1b;NAIL002;Neuronové sítì;3;840;S5;90;1;;15;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL004x01;21aNAIL004x01;NAIL004;Semináø z umìlé inteligence 1;3;640;S8;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL025x02;21aNAIL025x02;NAIL025;Evoluèní algoritmy 1;3;1040;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL028p1;21aNAIL028p1;NAIL028;Úvod do robotiky;3;640;S5;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL028x01;21aNAIL028x01;NAIL028;Úvod do robotiky;3;840;SW2;90;1;;16;;Obdržálek David, RNDr., Ph.D.
+21aNAIL062x01;21aNAIL062x01;NAIL062;Výroková a predikátová logika;3;840;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x02;21aNAIL062x02;NAIL062;Výroková a predikátová logika;3;640;S6;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNAIL062x06;21aNAIL062x06;NAIL062;Výroková a predikátová logika;3;940;S1;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNCGD008x01;21aNCGD008x01;NCGD008;Praktikum z herního vývoje s øízeným kódem;3;540;SW1;90;1;;15;;Gemrot Jakub, Mgr., Ph.D., Vlachovský Karel, Bc.
+21aNDBI007x01;21aNDBI007x01;NDBI007;Databázové pøístupové metody;3;740;S1;90;1;;15;liche;Koupil Pavel, Ing.
+21aNDBI007x02;21aNDBI007x02;NDBI007;Databázové pøístupové metody;3;740;S1;90;2;;15;sude;Koupil Pavel, Ing.
+21aNDBI025x05;21aNDBI025x05;NDBI025;Databázové systémy;3;840;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x08;21aNDBI025x08;NDBI025;Databázové systémy;3;640;S7;90;2;;15;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI009p1;21aNDMI009p1;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;940;S9;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D., Kynèl Jan, Mgr., Ph.D.
+21aNDMI009x01;21aNDMI009x01;NDMI009;Základy kombinatorické a výpoèetní geometrie;3;1040;S9;90;1;;16;;Kynèl Jan, Mgr., Ph.D., Opler Michal, Mgr.
+21aNDMI011p2;21aNDMI011p2;NDMI011;Kombinatorika a grafy 1;3;740;S9;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x01;21aNDMI011x01;NDMI011;Kombinatorika a grafy 1;3;1040;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNDMI011x03;21aNDMI011x03;NDMI011;Kombinatorika a grafy 1;3;740;S11;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI011x05;21aNDMI011x05;NDMI011;Kombinatorika a grafy 1;3;940;S6;90;1;;16;;Poljak Marian, Bc.
+21aNDMI011x07;21aNDMI011x07;NDMI011;Kombinatorika a grafy 1;3;840;S10;90;1;;15;;Penev Irena, Dr.
+21aNDMI084p1;21aNDMI084p1;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;3;840;S9;90;1;;16;;Kolman Petr, doc. Mgr., Ph.D.
+21aNMAI055x03;21aNMAI055x03;NMAI055;Matematická analýza 2;3;640;S10;90;1;;15;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI060p1;21aNMAI060p1;NMAI060;Pravdìpodobnostní metody;3;540;S9;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI062p2;21aNMAI062p2;NMAI062;Algebra 1;3;640;S4;90;1;;16;;Kompatscher Michael, Ph.D.
+21aNMAI073p1;21aNMAI073p1;NMAI073;Pravdìpodobnost a statistika 2;3;740;S4;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNMAI165x01;21aNMAI165x01;NMAI165;Praktikum z pravdìpodobnostních metod;3;640;S9;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNOPT042x01;21aNOPT042x01;NOPT042;Programování s omezujícími podmínkami;3;740;SU1;90;1;;15;;Bulín Jakub, RNDr., Ph.D.
+21aNPFL063p1;21aNPFL063p1;NPFL063;Úvod do obecné lingvistiky;3;940;S5;90;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL063x01;21aNPFL063x01;NPFL063;Úvod do obecné lingvistiky;3;1040;S8;45;1;;16;;Hana Jiøí, RNDr., Ph.D.
+21aNPFL070p1;21aNPFL070p1;NPFL070;Zdroje jazykových dat;3;640;SW1;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL070x01;21aNPFL070x01;NPFL070;Zdroje jazykových dat;3;690;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Popel Martin, Mgr., Ph.D.
+21aNPFL100p1;21aNPFL100p1;NPFL100;Variabilita jazykù v èase a prostoru;3;840;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL100x01;21aNPFL100x01;NPFL100;Variabilita jazykù v èase a prostoru;3;890;S8;45;1;;16;;Ševèíková Magda, Mgr., Ph.D., Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL121x01;21aNPFL121x01;NPFL121;Vybrané kapitoly z èeské gramatiky;3;540;S11;90;1;;16;;Zikánová Šárka, PhDr., Ph.D., Nedoluzhko Anna, Mgr., Ph.D.
+21aNPFL132p1;21aNPFL132p1;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1040;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL132x01;21aNPFL132x01;NPFL132;Pøírodní algoritmy uèení a optimalisace;3;1140;SU1;45;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPGR003p1;21aNPGR003p1;NPGR003;Základy poèítaèové grafiky;3;640;S3;90;1;;15;;Pelikán Josef, RNDr.
+21aNPGR003x02;21aNPGR003x02;NPGR003;Základy poèítaèové grafiky;3;840;SU2;90;1;;16;;Pelikán Josef, RNDr.
+21aNPGR005x01;21aNPGR005x01;NPGR005;Semináø z poèítaèové grafiky a vidìní;3;840;S11;90;1;;16;;Wilkie Alexander, doc., Dr., Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR025p1;21aNPGR025p1;NPGR025;Introduction to Colour Science;3;940;S3;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR037x01;21aNPGR037x01;NPGR037;Praktikum z Matlabu;3;940;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPRG013p3;21aNPRG013p3;NPRG013;Programování v jazyce Java;3;540;S3;90;1;;15;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG013x04;21aNPRG013x04;NPRG013;Programování v jazyce Java;3;940;SU2;90;1;;16;;Dort Vlastimil, Mgr.
+21aNPRG035x08;21aNPRG035x08;NPRG035;Programování v jazyce C#;3;640;SW2;90;1;;15;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041x01;21aNPRG041x01;NPRG041;Programování v C++;3;740;SU2;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x04;21aNPRG041x04;NPRG041;Programování v C++;3;740;SW2;90;1;;16;;Svoboda Martin, RNDr., Ph.D.
+21aNPRG041x09;21aNPRG041x09;NPRG041;Programování v C++;3;940;SW2;90;1;;15;;Svoboda Martin, RNDr., Ph.D.
+21aNSWI098p1;21aNSWI098p1;NSWI098;Principy pøekladaèù;3;740;S3;90;1;;16;;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI098x01;21aNSWI098x01;NSWI098;Principy pøekladaèù;3;840;S1;90;2;;15;sude;Bednárek David, RNDr., Ph.D.
+21aNSWI098x02;21aNSWI098x02;NSWI098;Principy pøekladaèù;3;840;S1;90;1;;15;liche;Yaghob Jakub, RNDr., Ph.D.
+21aNSWI101p1;21aNSWI101p1;NSWI101;Modely a verifikace chování systémù;3;640;S1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI101x01;21aNSWI101x01;NSWI101;Modely a verifikace chování systémù;3;740;S8;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI106p1;21aNSWI106p1;NSWI106;Administrace Linuxu;3;840;S3;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI133x01;21aNSWI133x01;NSWI133;Firemní semináøe;3;1040;S5;90;1;;16;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI142p2;21aNSWI142p2;NSWI142;Programování webových aplikací;3;540;S4;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x02;21aNSWI142x02;NSWI142;Programování webových aplikací;3;640;SU2;90;1;;16;;Škoda Petr, Mgr., Ph.D.
+21aNSWI144p1;21aNSWI144p1;NSWI144;Data na Webu;3;540;S5;90;1;;16;;Klímek Jakub, RNDr., Ph.D.
+21aNSWI144x01;21aNSWI144x01;NSWI144;Data na Webu;3;940;SW1;90;2;;13;sude;Klímek Jakub, RNDr., Ph.D.
+21aNSWI150p1;21aNSWI150p1;NSWI150;Virtualizace a cloud computing;3;940;S4;90;1;;16;;Yaghob Jakub, RNDr., Ph.D., Bednárek David, RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNSWI154x01;21aNSWI154x01;NSWI154;Nástroje pro vývoj software;3;640;SU1;90;1;;15;;Parízek Pavel, doc. RNDr., Ph.D.
+21aNSWI166p1;21aNSWI166p1;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;840;S4;90;2;;16;;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNSWI166x01;21aNSWI166x01;NSWI166;Úvod do doporuèovacích systémù a uživatelských preferencí;3;940;S10;90;1;;16;liche;Vojtáš Peter, prof. RNDr., DrSc., Peška Ladislav, Mgr., Ph.D.
+21aNTIN061x02;21aNTIN061x02;NTIN061;Algoritmy a datové struktury 2;3;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNTIN061x09;21aNTIN061x09;NTIN061;Algoritmy a datové struktury 2;3;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN066x01;21aNTIN066x01;NTIN066;Datové struktury 1;3;940;S7;90;1;;16;;Mièka Ondøej, Mgr.
+21aNTIN066x05;21aNTIN066x05;NTIN066;Datové struktury 1;3;640;S11;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+;R110754519;;Projekty;3;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+21aNAIL025p1;21aNAIL025p1;NAIL025;Evoluèní algoritmy 1;2;940;S5;90;1;;15;;Neruda Roman, Mgr., CSc.
+21aNAIL025x03;21aNAIL025x03;NAIL025;Evoluèní algoritmy 1;2;840;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062p2;21aNAIL062p2;NAIL062;Výroková a predikátová logika;2;640;S9;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL069x03;21aNAIL069x03;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x04;21aNAIL069x04;NAIL069;Umìlá inteligence 1;2;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL104p1;21aNAIL104p1;NAIL104;Pravdìpodobnostní grafické modely;2;640;S5;90;1;;16;;Vomlelová Marta, Mgr., Ph.D.
+21aNCGD003p1;21aNCGD003p1;NCGD003;Programování herních mechanik;2;540;SW2;45;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD003x01;21aNCGD003x01;NCGD003;Programování herních mechanik;2;590;SW2;90;1;;16;;Gemrot Jakub, Mgr., Ph.D.
+21aNCGD009p1;21aNCGD009p1;NCGD009;Adaptivní hudba a interaktivní zvuk;2;840;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNCGD009x01;21aNCGD009x01;NCGD009;Adaptivní hudba a interaktivní zvuk;2;940;SW1;90;1;;16;;Sporka Adam, doc. Ing., Ph.D.
+21aNDBI025p2;21aNDBI025p2;NDBI025;Databázové systémy;2;840;S4;90;1;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI025x03;21aNDBI025x03;NDBI025;Databázové systémy;2;1040;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI034p1;21aNDBI034p1;NDBI034;Vyhledávání multimediálního obsahu na webu;2;740;S9;90;1;;15;;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDBI034x01;21aNDBI034x01;NDBI034;Vyhledávání multimediálního obsahu na webu;2;840;S8;90;2;;13;sude;Skopal Tomáš, prof. RNDr., Ph.D.
+21aNDIN011p1;21aNDIN011p1;NDIN011;Aplikaèní software;2;1040;SW1;90;1;;16;;Forstová Lenka, Mgr.
+21aNDIN011x01;21aNDIN011x01;NDIN011;Aplikaèní software;2;1140;SW1;45;1;;16;;Forstová Lenka, Mgr.
+21aNDMI002x11;21aNDMI002x11;NDMI002;Diskrétní matematika;2;540;S6;90;1;;16;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI002x12;21aNDMI002x12;NDMI002;Diskrétní matematika;2;540;S7;90;1;;16;;Mikšaník David
+21aNDMI002x15;21aNDMI002x15;NDMI002;Diskrétní matematika;2;540;S8;90;1;;16;;Chmel Petr, Bc.
+21aNDMI028p1;21aNDMI028p1;NDMI028;Aplikace lineární algebry v kombinatorice;2;540;S9;90;1;;16;;Kratochvíl Jan, prof. RNDr., CSc.
+21aNDMI028x01;21aNDMI028x01;NDMI028;Aplikace lineární algebry v kombinatorice;2;640;S8;90;1;;16;;Bok Jan, Mgr.
+21aNDMI084x01;21aNDMI084x01;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;2;940;S7;90;2;;16;sude;Lieskovský Matej, Mgr.
+21aNMAI055p2;21aNMAI055p2;NMAI055;Matematická analýza 2;2;940;S9;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057p2;21aNMAI057p2;NMAI057;Lineární algebra 1;2;740;S3;90;1;;15;;Fiala Jiøí, doc. RNDr., Ph.D.
+21aNMAI062x03;21aNMAI062x03;NMAI062;Algebra 1;2;840;S6;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI062x04;21aNMAI062x04;NMAI062;Algebra 1;2;940;S10;90;1;;16;;Berg Kevin
+21aNOPT042p1;21aNOPT042p1;NOPT042;Programování s omezujícími podmínkami;2;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNPFL012p1;21aNPFL012p1;NPFL012;Úvod do poèítaèové lingvistiky;2;1040;S3;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL012p2;21aNPFL012p2;NPFL012;Úvod do poèítaèové lingvistiky;2;740;S6;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL067p1;21aNPFL067p1;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;540;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL067x01;21aNPFL067x01;NPFL067;Statistické metody zpracování pøirozených jazykù I;2;740;SU2;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D., Hajiè Jan, prof. RNDr., Dr.
+21aNPFL103p1;21aNPFL103p1;NPFL103;Vyhledávání informací;2;840;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL103x01;21aNPFL103x01;NPFL103;Vyhledávání informací;2;940;S1;90;1;;16;;Pecina Pavel, doc. RNDr., Ph.D.
+21aNPFL122x02;21aNPFL122x02;NPFL122;Hluboké zpìtnovazební uèení;2;840;S7;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x01;21aNPFL129x01;NPFL129;Úvod do strojového uèení v Pythonu;2;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129x02;21aNPFL129x02;NPFL129;Úvod do strojového uèení v Pythonu;2;640;S4;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003x04;21aNPGR003x04;NPGR003;Základy poèítaèové grafiky;2;940;SW2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPRG013x06;21aNPRG013x06;NPRG013;Programování v jazyce Java;2;540;SU2;90;1;;16;;Hnìtynka Petr, doc. RNDr., Ph.D.
+21aNPRG035x06;21aNPRG035x06;NPRG035;Programování v jazyce C#;2;1040;SW2;90;1;;16;;Zikmund Radek, Mgr.
+21aNPRG062p2;21aNPRG062p2;NPRG062;Algoritmizace;2;840;S3;90;1;;15;;Dvoøák Tomáš, doc. RNDr., CSc.
+21aNSWI035p1;21aNSWI035p1;NSWI035;Principy distribuovaných systémù;2;740;S4;90;1;;14;;Zavoral Filip, RNDr., Ph.D.
+21aNSWI057x01;21aNSWI057x01;NSWI057;Výbìrový semináø z distribuovaných a komponentových systémù I;2;840;S9;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D., Plášil František, prof. Ing., DrSc.
+21aNSWI089p1;21aNSWI089p1;NSWI089;Ochrana informací 1;2;1040;S5;90;1;;16;;Beneš Antonín, RNDr., Ph.D.
+21aNSWI106x01;21aNSWI106x01;NSWI106;Administrace Linuxu;2;640;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI141p2;21aNSWI141p2;NSWI141;Úvod do poèítaèových sítí;2;640;S3;90;1;;15;;Forst Libor, RNDr., Pešková Klára, Mgr., Ph.D.
+21aNSWI164x01;21aNSWI164x01;NSWI164;Modelem øízený vývoj;2;740;SU1;90;1;;15;liche;Bureš Tomáš, prof. RNDr., Ph.D.
+21aNTIN022p1;21aNTIN022p1;NTIN022;Pravdìpodobnostní techniky;2;740;S5;90;1;;16;;Tancer Martin, doc. RNDr., Ph.D.
+21aNTIN043p1;21aNTIN043p1;NTIN043;Formální základy softwarového inženýrství;2;640;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN043x01;21aNTIN043x01;NTIN043;Formální základy softwarového inženýrství;2;740;S11;90;1;;15;;Neèaský Martin, doc. Mgr., Ph.D., Parízek Pavel, doc. RNDr., Ph.D.
+21aNTIN061p2;21aNTIN061p2;NTIN061;Algoritmy a datové struktury 2;2;540;S4;90;1;;16;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNTIN061x07;21aNTIN061x07;NTIN061;Algoritmy a datové struktury 2;2;740;S7;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN066x02;21aNTIN066x02;NTIN066;Datové struktury 1;2;940;S6;90;1;;16;;Ondráèek Lukáš, Mgr.
+21aNTIN090p2;21aNTIN090p2;NTIN090;Základy složitosti a vyèíslitelnosti;2;840;S5;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x02;21aNTIN090x02;NTIN090;Základy složitosti a vyèíslitelnosti;2;640;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN102x01;21aNTIN102x01;NTIN102;Semináø z teoretické informatiky;2;690;S1;135;1;;15;;Koucký Michal, prof. Mgr., Ph.D., Sgall Jiøí, prof. RNDr., DrSc., Èepek Ondøej, doc. RNDr., Ph.D., Kolman Petr, doc. Mgr., Ph.D., Feldmann Andreas Emil, Dr., Hubáèek Pavel, Mgr., Ph.D.
+;R110742008;;Sebranka;2;1140;S8;150;1;;15;; 
+;R110754518;;Projekty;2;1080;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+RG110762645;R110762646;;;2;1140;S8;180;;11.1.2022;5;;Bednárek David, RNDr., Ph.D.
+21aNAIL060p1;21aNAIL060p1;NAIL060;Implementace neuronových sítí 1;4;940;S4;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL060x01;21aNAIL060x01;NAIL060;Implementace neuronových sítí 1;4;1040;SW1;90;1;;16;;Božovský Petr, RNDr., CSc.
+21aNAIL062x04;21aNAIL062x04;NAIL062;Výroková a predikátová logika;4;540;S6;90;1;;16;;Bulín Jakub, RNDr., Ph.D.
+21aNAIL099x01;21aNAIL099x01;NAIL099;Semináø strojového uèení a modelování 1;4;840;S8;90;2;;16;sude;Holeòa Martin, prof. RNDr. Ing., CSc.
+21aNDBI007p1;21aNDBI007p1;NDBI007;Databázové pøístupové metody;4;640;S3;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI007p2;21aNDBI007p2;NDBI007;Databázové pøístupové metody;4;540;S1;90;1;;15;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI025x01;21aNDBI025x01;NDBI025;Databázové systémy;4;940;S6;90;2;;13;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x07;21aNDBI025x07;NDBI025;Databázové systémy;4;540;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI048p1;21aNDBI048p1;NDBI048;Data Science;4;740;S5;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDBI048x01;21aNDBI048x01;NDBI048;Data Science;4;840;SW1;90;1;;16;;Holubová Irena, doc. RNDr., Ph.D.
+21aNDMI002p2;21aNDMI002p2;NDMI002;Diskrétní matematika;4;840;S3;90;1;;15;;Koutecký Martin, Mgr., Ph.D.
+21aNDMI011x04;21aNDMI011x04;NDMI011;Kombinatorika a grafy 1;4;540;S10;90;1;;16;;Lieskovský Matej, Mgr.
+21aNDMI011x06;21aNDMI011x06;NDMI011;Kombinatorika a grafy 1;4;940;S7;90;1;;16;;Penev Irena, Dr.
+21aNDMI011x08;21aNDMI011x08;NDMI011;Kombinatorika a grafy 1;4;640;S6;90;1;;16;;Èermák Filip, Bc.
+21aNDMI050x01;21aNDMI050x01;NDMI050;Úvod do øešení problémù kombinatorických, mat. i jiných (IPS) I;4;1159;S3;90;1;;15;;Mareš Martin, Mgr., Ph.D., Konèický Václav, Bc.
+21aNDMI098p1;21aNDMI098p1;NDMI098;Algoritmická teorie her;4;840;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNDMI098x01;21aNDMI098x01;NDMI098;Algoritmická teorie her;4;940;S9;90;1;;16;;Balko Martin, RNDr., Ph.D.
+21aNMAI055p1;21aNMAI055p1;NMAI055;Matematická analýza 2;4;540;S5;90;1;;16;;Pultr Aleš, prof. RNDr., DrSc.
+21aNMAI055x01;21aNMAI055x01;NMAI055;Matematická analýza 2;4;640;S10;90;1;;16;;Lopatková Markéta, doc. RNDr., Ph.D.
+21aNMAI055x02;21aNMAI055x02;NMAI055;Matematická analýza 2;4;640;S7;90;1;;16;;Zeman Peter, Mgr.
+21aNMAI055x04;21aNMAI055x04;NMAI055;Matematická analýza 2;4;640;S11;90;1;;16;;Tyomkyn Mykhaylo, Ph.D.
+21aNMAI057x21;21aNMAI057x21;NMAI057;Lineární algebra 1;4;840;S7;90;1;;15;;Èerný Martin, Bc., Zeman Peter, Mgr.
+21aNMAI060p2;21aNMAI060p2;NMAI060;Pravdìpodobnostní metody;4;540;S8;90;1;;16;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMAI165x02;21aNMAI165x02;NMAI165;Praktikum z pravdìpodobnostních metod;4;640;S8;90;1;;15;;Antoch Jaromír, prof. RNDr., CSc.
+21aNMIN263p1;21aNMIN263p1;NMIN263;Principy poèítaèù a operaèní systémy;4;1040;S1;90;1;;16;;Jákl Vojtìch, RNDr.
+21aNPFL006p1;21aNPFL006p1;NPFL006;Úvod do formální lingvistiky;4;640;S1;90;1;;16;;Ševèíková Magda, Mgr., Ph.D.
+21aNPFL015x01;21aNPFL015x01;NPFL015;Metody automatizovaného pøekladu;4;840;S10;90;1;;16;;Kuboò Vladislav, doc. RNDr., Ph.D.
+21aNPFL038p1;21aNPFL038p1;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;940;SU1;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL038x01;21aNPFL038x01;NPFL038;Základy rozpoznávání a generování mluvené øeèi;4;1040;SU2;90;1;;16;;Peterek Nino, Mgr., Ph.D.
+21aNPFL092p1;21aNPFL092p1;NPFL092;Technologie pro NLP;4;740;S421;45;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL092x01;21aNPFL092x01;NPFL092;Technologie pro NLP;4;640;S421;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPFL094p1;21aNPFL094p1;NPFL094;Morfologická a syntaktická analýza;4;840;SU1;90;1;;16;;Zeman Daniel, RNDr., Ph.D.
+21aNPFL097p1;21aNPFL097p1;NPFL097;Neøízené strojové uèení v NLP;4;540;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL097x01;21aNPFL097x01;NPFL097;Neøízené strojové uèení v NLP;4;590;S11;45;1;;16;;Mareèek David, RNDr., Ph.D.
+21aNPFL125x01;21aNPFL125x01;NPFL125;Základy jazykových technologií;4;640;SW1;90;1;;16;;Žabokrtský Zdenìk, doc. Ing., Ph.D., Rosa Rudolf, Mgr., Ph.D.
+21aNPGR035x02;21aNPGR035x02;NPGR035;Strojové uèení v poèítaèovém vidìní;4;540;SU1;90;1;;16;;Šikudová Elena, doc. RNDr., Ph.D.
+21aNPGR039p1;21aNPGR039p1;NPGR039;Úvod do animované tvorby;4;540;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPGR039x01;21aNPGR039x01;NPGR039;Úvod do animované tvorby;4;590;SW1;45;1;;16;;Brom Cyril, doc. Mgr., Ph.D., Javora Ondøej, MgA.
+21aNPRG013x01;21aNPRG013x01;NPRG013;Programování v jazyce Java;4;640;SU2;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG030p2;21aNPRG030p2;NPRG030;Programování 1;4;740;S3;90;1;;15;;Holan Tomáš, RNDr., Ph.D.
+21aNPRG035x01;21aNPRG035x01;NPRG035;Programování v jazyce C#;4;840;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x04;21aNPRG035x04;NPRG035;Programování v jazyce C#;4;1040;SW2;90;1;;16;;Ježek Pavel, Mgr., Ph.D.
+21aNPRG041p2;21aNPRG041p2;NPRG041;Programování v C++;4;840;S4;90;1;;16;;Bednárek David, RNDr., Ph.D.
+21aNPRG041x05;21aNPRG041x05;NPRG041;Programování v C++;4;1040;S7;90;1;;16;;Zavoral Filip, RNDr., Ph.D.
+21aNPRG041x06;21aNPRG041x06;NPRG041;Programování v C++;4;740;SW2;90;1;;16;;Faltín Tomáš, Mgr.
+21aNPRG041x08;21aNPRG041x08;NPRG041;Programování v C++;4;540;SW2;90;1;;15;;Šmelko Adam, Mgr.
+21aNPRG059x01;21aNPRG059x01;NPRG059;Praktikum z pokroèilého objektového programování;4;1090;S7;45;1;;16;;Ježek Pavel, Mgr., Ph.D., Hnìtynka Petr, doc. RNDr., Ph.D., Zavoral Filip, RNDr., Ph.D.
+21aNPRG068p1;21aNPRG068p1;NPRG068;Programování v Haskellu;4;740;S4;90;1;;16;;Kratochvíl Miroslav, RNDr., Ph.D.
+21aNSWI015p1;21aNSWI015p1;NSWI015;Unix/Linux Programming in C;4;540;S4;90;1;;16;;Pechanec Jan, Mgr., Kotal Vladimír, Mgr.
+21aNSWI015x01;21aNSWI015x01;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;1;;16;liche;Kotal Vladimír, Mgr.
+21aNSWI015x02;21aNSWI015x02;NSWI015;Unix/Linux Programming in C;4;640;SU1;90;2;;16;sude;Kotal Vladimír, Mgr.
+21aNSWI106x03;21aNSWI106x03;NSWI106;Administrace Linuxu;4;940;SU2;90;1;;16;;Aschenbrenner Vojtìch, Ing.
+21aNSWI130x01;21aNSWI130x01;NSWI130;Architektury softwarových systémù;4;840;S6;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI130x02;21aNSWI130x02;NSWI130;Architektury softwarových systémù;4;740;S8;90;1;;16;;Neèaský Martin, doc. Mgr., Ph.D.
+21aNSWI142x01;21aNSWI142x01;NSWI142;Programování webových aplikací;4;940;SW2;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNSWI142x04;21aNSWI142x04;NSWI142;Programování webových aplikací;4;640;SW2;90;1;;16;;Peška Ladislav, Mgr., Ph.D.
+21aNSWI142x05;21aNSWI142x05;NSWI142;Programování webových aplikací;4;1040;SU1;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI142x06;21aNSWI142x06;NSWI142;Programování webových aplikací;4;540;SU2;90;1;;15;;Škoda Petr, Mgr., Ph.D.
+21aNSWI162x01;21aNSWI162x01;NSWI162;Sémantika programù;4;740;SU2;90;1;;16;liche;Kofroò Jan, doc. RNDr., Ph.D.
+21aNSWI163x01;21aNSWI163x01;NSWI163;Úvod do middleware;4;740;SU2;90;2;;16;sude;Tùma Petr, prof. Ing., Dr.
+21aNTIN022x01;21aNTIN022x01;NTIN022;Pravdìpodobnostní techniky;4;740;S1;90;1;;16;;Koneèný Matìj, RNDr., Bulavka Denys, Mgr.
+21aNTIN046x01;21aNTIN046x01;NTIN046;Rozpoznávání a syntaktická analýza;4;840;S1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc., Plátek Martin, CSc.
+21aNTIN061x05;21aNTIN061x05;NTIN061;Algoritmy a datové struktury 2;4;1040;S6;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x08;21aNTIN061x08;NTIN061;Algoritmy a datové struktury 2;4;940;S10;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN066p1;21aNTIN066p1;NTIN066;Datové struktury 1;4;840;S5;90;1;;16;;Koucký Michal, prof. Mgr., Ph.D.
+21aNTIN090p1;21aNTIN090p1;NTIN090;Základy složitosti a vyèíslitelnosti;4;540;S3;90;1;;16;;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x01;21aNTIN090x01;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;1;;16;liche;Kuèera Petr, RNDr., Ph.D.
+21aNTIN090x05;21aNTIN090x05;NTIN090;Základy složitosti a vyèíslitelnosti;4;740;S7;90;2;;16;sude;Bulín Jakub, RNDr., Ph.D.
+;R110741999;;Polední pøednášky KAM;4;740;S6;90;1;;8;; 
+;R110742024;;Polední pøednášky KAM;4;740;S6;90;10;;6;; 
+;R110754520;;Projekty;4;1140;S1;90;1;;15;;Zavoral Filip, RNDr., Ph.D.
+;R110761385;;;4;540;S510;180;;30.9.2021;1;;Èepek Ondøej, doc. RNDr., Ph.D.
+21aNAIL025x01;21aNAIL025x01;NAIL025;Evoluèní algoritmy 1;5;740;SU2;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x03;21aNAIL062x03;NAIL062;Výroková a predikátová logika;5;540;S7;90;1;;16;;Pilát Martin, Mgr., Ph.D.
+21aNAIL062x08;21aNAIL062x08;NAIL062;Výroková a predikátová logika;5;540;S10;90;1;;16;;Hric Jan, RNDr.
+21aNAIL087p1;21aNAIL087p1;NAIL087;Informatika a kognitivní vìdy 1;5;540;S4;90;1;;16;;Lukavský Jiøí, Mgr., Ph.D., Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL087x01;21aNAIL087x01;NAIL087;Informatika a kognitivní vìdy 1;5;640;S4;90;1;;16;;Dìchtìrenko Filip, Mgr., Ph.D., Antolík Ján, Mgr., Ph.D.
+21aNAIL116p1;21aNAIL116p1;NAIL116;Sociální sítì a jejich analýza;5;640;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL116x01;21aNAIL116x01;NAIL116;Sociální sítì a jejich analýza;5;540;SW1;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNCGD002p1;21aNCGD002p1;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD002x01;21aNCGD002x01;NCGD002;Vývoj poèítaèových her 2;5;840;S3;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D., Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004p1;21aNCGD004p1;NCGD004;Úvod do herního designu;5;640;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNCGD004x01;21aNCGD004x01;NCGD004;Úvod do herního designu;5;690;S9;45;1;;16;;Kolek Lukáš, Mgr., Ph.D.
+21aNDBI025x02;21aNDBI025x02;NDBI025;Databázové systémy;5;540;S11;90;2;;15;;Lokoè Jakub, doc. RNDr., Ph.D.
+21aNDBI025x04;21aNDBI025x04;NDBI025;Databázové systémy;5;740;S7;90;2;;16;;Kopecký Michal, RNDr., Ph.D.
+21aNDMI002x14;21aNDMI002x14;NDMI002;Diskrétní matematika;5;640;S6;90;1;;16;;Hons Tomáš, Bc.
+21aNDMI011x02;21aNDMI011x02;NDMI011;Kombinatorika a grafy 1;5;640;S10;90;1;;16;;Pekárek Jakub, Mgr.
+21aNDMI084p2;21aNDMI084p2;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;5;640;S3;90;1;;16;;Sgall Jiøí, prof. RNDr., DrSc.
+21aNJAZ201x01;21aNJAZ201x01;NJAZ201;Academic Writing for Mathematicians I;5;690;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNJAZ203x01;21aNJAZ203x01;NJAZ203;Academic Writing for Computer Scientists I;5;790;S11;90;1;;16;;Goodall Andrew, D.Phil.
+21aNMAI062p1;21aNMAI062p1;NMAI062;Algebra 1;5;540;S5;90;1;;16;;Patáková Zuzana, RNDr., Ph.D.
+21aNMAI069x09;21aNMAI069x09;NMAI069;Matematické dovednosti;5;540;S6;90;1;;16;;Kynèl Jan, Mgr., Ph.D.
+21aNPGR003x05;21aNPGR003x05;NPGR003;Základy poèítaèové grafiky;5;540;SU2;90;1;;15;;Tázlar Vojtìch, Mgr.
+21aNPRG013x05;21aNPRG013x05;NPRG013;Programování v jazyce Java;5;740;SU1;90;1;;16;;Kofroò Jan, doc. RNDr., Ph.D.
+21aNPRG035x02;21aNPRG035x02;NPRG035;Programování v jazyce C#;5;640;SW2;90;1;;16;;Kliber Filip, Mgr.
+21aNPRG035x03;21aNPRG035x03;NPRG035;Programování v jazyce C#;5;540;SW2;90;1;;16;;Pacovský Jan, Mgr.
+21aNPRG041x03;21aNPRG041x03;NPRG041;Programování v C++;5;740;SW2;90;1;;16;;Husák Robert, Mgr. Ing.
+21aNPRG041x07;21aNPRG041x07;NPRG041;Programování v C++;5;640;SU2;90;1;;16;;Drozdík Tomáš, Bc.
+21aNSWI004p1;21aNSWI004p1;NSWI004;Operaèní systémy;5;540;S3;90;1;;16;;Tùma Petr, prof. Ing., Dr.
+21aNSWI004x01;21aNSWI004x01;NSWI004;Operaèní systémy;5;740;S9;90;1;;16;liche;Bulej Lubomír, doc. Ing., Ph.D.
+21aNSWI004x02;21aNSWI004x02;NSWI004;Operaèní systémy;5;740;S9;90;2;;16;sude;Horký Vojtìch, Mgr., Ph.D.
+21aNTIN061x01;21aNTIN061x01;NTIN061;Algoritmy a datové struktury 2;5;640;S7;90;1;;16;;Majerech Vladan, Mgr., Dr.
+21aNTIN061x03;21aNTIN061x03;NTIN061;Algoritmy a datové struktury 2;5;740;S10;90;1;;16;;Opler Michal, Mgr.
+21aNTIN061x06;21aNTIN061x06;NTIN061;Algoritmy a datové struktury 2;5;740;S6;90;1;;16;;Hric Jan, RNDr.
+21aNUIN021p1;21aNUIN021p1;NUIN021;Algoritmy a automaty pro uèitele;5;740;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+21aNUIN021x01;21aNUIN021x01;NUIN021;Algoritmy a automaty pro uèitele;5;840;S4;90;1;;16;;Mareš Martin, Mgr., Ph.D.
+;R110742005;;Experiment vyukove simulace;5;690;SW1;470;1;;13;; 
+21aNAIL002p1;21aNAIL002p1;NAIL002;Neuronové sítì;1;840;S5;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL002x01;21aNAIL002x01;NAIL002;Neuronové sítì;1;740;SU2;90;1;;16;;Mrázová Iveta, doc. RNDr., CSc., Mráz František, RNDr., CSc.
+21aNAIL062x05;21aNAIL062x05;NAIL062;Výroková a predikátová logika;1;740;S11;90;1;;16;;Hric Jan, RNDr.
+21aNAIL062x07;21aNAIL062x07;NAIL062;Výroková a predikátová logika;1;740;S7;90;1;;16;;Pantùèková Kristýna, Mgr.
+21aNAIL069p1;21aNAIL069p1;NAIL069;Umìlá inteligence 1;1;640;S3;90;1;;15;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069p2;21aNAIL069p2;NAIL069;Umìlá inteligence 1;1;540;S5;90;1;;16;;Barták Roman, prof. RNDr., Ph.D.
+21aNAIL069x01;21aNAIL069x01;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;1;;16;liche;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL069x02;21aNAIL069x02;NAIL069;Umìlá inteligence 1;1;1040;SU2;90;2;;16;sude;Fink Jiøí, RNDr., Ph.D., Švancara Jiøí, Mgr., Ph.D.
+21aNAIL122p1;21aNAIL122p1;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;1;;16;liche;Gemrot Jakub, Mgr., Ph.D.
+21aNAIL122x01;21aNAIL122x01;NAIL122;Umìlá inteligence pro poèítaèové hry;1;540;SW1;90;2;;15;sude;Gemrot Jakub, Mgr., Ph.D.
+21aNDBI025x06;21aNDBI025x06;NDBI025;Databázové systémy;1;1040;S7;90;2;;13;;Kopecký Michal, RNDr., Ph.D.
+21aNDBI044p1;21aNDBI044p1;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;940;S4;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDBI044x01;21aNDBI044x01;NDBI044;Bioinformatické algoritmy, databáze a nástroje;1;1040;S8;90;1;;16;;Hoksza David, doc. RNDr., Ph.D.
+21aNDMI002x13;21aNDMI002x13;NDMI002;Diskrétní matematika;1;740;S6;90;1;;16;;Skotnica Michael, Mgr.
+21aNDMI084x02;21aNDMI084x02;NDMI084;Úvod do aproximaèních a pravdìpodobnostních algoritmù;1;940;S7;90;1;;16;liche;Lieskovský Matej, Mgr.
+21aNMAI057x16;21aNMAI057x16;NMAI057;Lineární algebra 1;1;840;S6;90;1;;16;;Hubáèek Pavel, Mgr., Ph.D.
+21aNMAI062x01;21aNMAI062x01;NMAI062;Algebra 1;1;640;S6;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI062x02;21aNMAI062x02;NMAI062;Algebra 1;1;740;S8;90;1;;16;;Krasula Dominik, Bc.
+21aNMAI073x01;21aNMAI073x01;NMAI073;Pravdìpodobnost a statistika 2;1;1040;S6;90;1;;16;;Šámal Robert, doc. Mgr., Ph.D.
+21aNPFL004x01;21aNPFL004x01;NPFL004;Semináø z formální lingvistiky;1;840;S1;100;1;;16;;Hajièová Eva, prof. PhDr., DrSc.
+21aNPFL099p1;21aNPFL099p1;NPFL099;Statistické dialogové systémy;1;940;S10;90;1;;16;;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL099x01;21aNPFL099x01;NPFL099;Statistické dialogové systémy;1;1040;S10;45;1;;15;liche;Dušek Ondøej, Mgr. et Mgr., Ph.D.
+21aNPFL101x01;21aNPFL101x01;NPFL101;Soutìžní strojový pøeklad;1;540;SU1;90;1;;16;;Bojar Ondøej, doc. RNDr., Ph.D.
+21aNPFL122p1;21aNPFL122p1;NPFL122;Hluboké zpìtnovazební uèení;1;540;S3;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL122x01;21aNPFL122x01;NPFL122;Hluboké zpìtnovazební uèení;1;640;S1;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPFL129p2;21aNPFL129p2;NPFL129;Úvod do strojového uèení v Pythonu;1;740;S5;90;1;;16;;Straka Milan, RNDr., Ph.D.
+21aNPGR003p2;21aNPGR003p2;NPGR003;Základy poèítaèové grafiky;1;540;S4;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR003x01;21aNPGR003x01;NPGR003;Základy poèítaèové grafiky;1;940;SU2;90;1;;16;;Tázlar Vojtìch, Mgr.
+21aNPGR003x03;21aNPGR003x03;NPGR003;Základy poèítaèové grafiky;1;640;SW2;90;1;;16;;Wilkie Alexander, doc., Dr.
+21aNPGR035p1;21aNPGR035p1;NPGR035;Strojo
