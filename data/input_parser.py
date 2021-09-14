@@ -1,16 +1,28 @@
 import csv
 import argparse
 
+def print_types(types):
+    print("[", end="")
+    for i in range(0, len(types)):
+        if i != len(types) - 1:
+            print(t, end=",")
+        else:
+            print(t, end="")
+    print("]")
+
 class Subject:
-    def __init__(self, name):
+    def __init__(self, code, name):
+        self.code = code
         self.name = name
         self.instances = {}
     
     def add_instance(self, instance):
         self.instances[instance.type] = instance
-    
-    def print_instances(self):
-        pass
+
+    def print(self):
+        print("subject({}, \'{}\', {})".format(code, name, print_types(types)))
+        for instance_type, instance in self.instances.items():
+            
 
 class SubjectInstance:
     def __init__(self, code, subject_type, start, end, teacher, building, room):
