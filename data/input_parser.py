@@ -1,14 +1,15 @@
 import csv
 import argparse
 
-def print_types(types):
-    print("[", end="")
-    for i in range(0, len(types)):
-        if i != len(types) - 1:
-            print(t, end=",")
+def get_type_string(instance_types):
+    result = ["["]
+    for i in range(0, len(instance_types)):
+        if i != len(instance_types) - 1:
+            result.append(instance_types[i] + ",")
         else:
-            print(t, end="")
-    print("]")
+            result.append(instance_types[i])
+    result.append("]")
+    return "".join(result)
 
 class Subject:
     def __init__(self, code, name):
@@ -20,25 +21,25 @@ class Subject:
         self.instances[instance.type] = instance
 
     def print(self):
-        print("subject({}, \'{}\', {})".format(code, name, print_types(types)))
+        print("subject({}, \'{}\', {})".format(self.code, self.name, get_type_string(list(self.instances.keys()))))
         for instance_type, instance in self.instances.items():
+            print(instance.to_s())
             
 
 class SubjectInstance:
-    def __init__(self, code, subject_type, start, end, teacher, building, room):
+    def __init__(self, code, instance_type, start, end, teacher, building, room):
         self.code = code
-        self.instance_type = instance_type
-        self.day = day
-        self.minutes = minutes
-        self.length = length
+        self.type = instance_type
+        self.start = start
+        self.end = end
         self.teacher = teacher
         self.building = building
         self.room = room
     
     def to_s(self):
-        return "subject_instance({}, {}, {}, {}, \'{}\', \'{}\', \'{}\', \'{}\').".format(
+        return "subject_instance({}, {}, {}, {}, \'{}\', \'{}\', \'{}\').".format(
             self.code,
-            self.instance_type,
+            self.type,
             self.start,
             self.end,
             self.teacher,
@@ -47,7 +48,7 @@ class SubjectInstance:
         )
 
 
-days = ['kek', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']
+days = ['filler', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']
 
 def get_date(day, minutes):
     return "date({}, {}, {})".format(days[day], minutes // 60, minutes % 60)
@@ -62,6 +63,7 @@ def load_csv(filename):
                 continue
             elif row[2] != '' and row[3] != '' and  row[4] != '' and row[5] != '' and row[6] != '' and row[7] != '':
                 unique_code = row[0].lower()
+                instance_type = row[0][10:]
                 code = row[2].lower()
                 name = row[3]
                 day = int(row[4])
@@ -70,5 +72,20 @@ def load_csv(filename):
                 length = int(row[7])
                 date_start = get_date(day, minutes)
                 date_end = get_date(day, minutes + length)
-                teacher = 
+                room = row[6]
+                building = "Malá Strana"
+                teacher = row[12]
+                if subjects.get(code) == None:
+                    subjects[code] = Subject(code, name)
+                subjects[code].add_instance(SubjectInstance(code, instance_type, date_start, date_end, teacher, building, room))
+    return subjects
+
+parser = argparse.ArgumentParser(description='Parses the input data from a schedule taken from SIS into Prolog terms')
+parser.add_argument('filename', metavar='filename', help='The file to read from')
+
+args = parser.parse_args()
+
+subjects = load_csv(args.filename)
+for subject in subjects.values():
+    subject.print()
 
