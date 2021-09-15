@@ -15,14 +15,17 @@ class Subject:
     def __init__(self, code, name):
         self.code = code
         self.name = name
-        self.instances = {}
+        self.types = {}
+        self.instances = []
     
     def add_instance(self, instance):
-        self.instances[instance.type] = instance
+        if self.types.get(instance.type) == None:
+            self.types[instance.type] = True
+        self.instances.append(instance)
 
     def print(self):
-        print("subject({}, \'{}\', {})".format(self.code, self.name, get_type_string(list(self.instances.keys()))))
-        for instance_type, instance in self.instances.items():
+        print("subject({}, \'{}\', {}).".format(self.code, self.name, get_type_string(list(self.types.keys()))))
+        for instance in self.instances:
             print(instance.to_s())
             
 
@@ -63,7 +66,7 @@ def load_csv(filename):
                 continue
             elif row[2] != '' and row[3] != '' and  row[4] != '' and row[5] != '' and row[6] != '' and row[7] != '':
                 unique_code = row[0].lower()
-                instance_type = row[0][10:]
+                instance_type = row[0][10]
                 code = row[2].lower()
                 name = row[3]
                 day = int(row[4])
