@@ -168,9 +168,9 @@ print_schedules([Schedule | Schedules]) :- (
 ).
 
 % get_possible_schedules(+Codes)
-% the procedure prints all the possible schedule combinations you can get with the required subjects
+% the procedure prints a viable schedule.
 % @Codes - the codes of the subjects you want to take
 get_possible_schedules(Codes) :- (
-    findall(Schedule, create_schedule(Codes, Schedule), Schedules),
-    print_schedules(Schedules)
+    create_schedule(Codes, Schedule),
+    print_single_schedule(Schedule)
 ).

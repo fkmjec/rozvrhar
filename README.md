@@ -24,6 +24,12 @@ For every course, there is one `subject` and multiple `subject_instance` terms:
 You can find test input files in the git repository and they should eliminate any confusion.
 Note that all of the data must begin with lower-case, because if not, Prolog will treat them as variables.
 
+## Getting source data from SIS
+I found that the easiest way to get data about courses at MFF UK is to download the CSVs of SIS schedules in a 
+building and merge them together. After you do that, there is a simple script located in `data/input_parser.py` 
+which takes the CSV as input and spits out the Prolog terms corresponding to that schedule. Note that I have not
+tested all the irregularities that can arise.
+
 ## Creating the schedule
 For creating the actual schedule, you must first create the source file as written above.
 Then, you open up an instance of Prolog, preferably SWI-Prolog (I have not tested any other implementation).
